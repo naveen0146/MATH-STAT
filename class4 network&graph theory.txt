@@ -1,0 +1,41 @@
+1. Network
+A network is a group of things or people that are connected and share information or resources.
+Example:
+A computer network connects computers so they can share files and the internet.
+
+2. Social Network
+A social network is a group of people who are connected through relationships like friendship, family, or work.
+Example:
+Your friends on Facebook or Instagram form a social network.
+
+3. GRAPH
+Nodes
+Edges(connection between nodes)
+Nodes: People (e.g., you, your friends)
+Edges: Friendships or follower connections
+
+Relational Database: A database that stores data in tables with rows and columns
+Example: MySQL used by banks to store customer data (Customer table, Account table, Transactions table).
+
+Traditional database: Files or tree-like structures
+
+4. Degree Centrality
+Number of direct connections a node has.
+Example:
+On Twitter, a user with many followers has high degree centrality.
+
+5. Betweenness Centrality
+How often a node lies on the shortest path between other nodes. Shows who connects groups.
+Example:
+In a company, a project manager connecting two departments has high betweenness.
+
+6. Closeness Centrality
+How fast someone can reach everyone else.
+Example:
+In logistics, a warehouse that is close to all delivery points has high closeness centrality.
+
+7. Eigenvector Centrality
+Being connected to other important people.
+Example: A person followed by celebrities is more important than someone followed by random users.
+
+Google PageRank uses this! A website linked by other popular websites ranks higher.

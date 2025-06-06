@@ -1,0 +1,58 @@
+Linear Equation:
+A Linear Equation is an algebraic expression where the variables are raised to one.
+Ax+By+C = 0 A,B,C are real numbers and x and y are variables each with a degree of1.
+Example: Cost of a Ride-Sharing Service:
+If a ride-sharing service charges a base fare of $2.50 and $1.25 per mile, you can use a linear equation to determine 
+the total cost: Total Cost = 2.50 + 1.25 * Number of Miles. 
+Let's say you travel 5 miles. The total cost would be $2.50 + $1.25 * 5 = $8.75. 
+Vectors:
+vector = Magnitude(length) + direction
+A scalar vector has only one Magnitude.
+Zero Vector: A vector with all components zero: (0, 0)
+
+Unit Vector: A vector with a magnitude of 1
+
+Position Vector: A vector from the origin to a point: (x, y)
+
+Vector Space:
+A vector space is a set of vectors that follows specific rules for vector addition and scalar multiplication.
+Linear Independence:
+A set of vectors is linearly independent if none of them can be written as a combination of the others
+Example: v1=(1,2) v2=(2,4) these are dependent because v2=2v1
+Basis:
+A basis is a set of linearly independent vectors that can generate the entire vector space through combinations.
+Example: to make (3,2) 3*(1,0) + 2*(0,1) = (3,2) here basis for r*r={(1,0),(0,1)}
+Rank:
+The rank of a set of vectors (or a matrix) is the number of linearly independent vectors in it. 
+Example: A= [1,0],[2,0] rows are dependent where rank is 1
+
+MATRICES:
+A Matrix is a rectangular array of numbers arranged in rows and columns
+Types of Matrices
+Row matrix [1,2,3]
+Column matrix[1
+              2]
+Square matrix
+Zero matrix
+Diagonal matrix :Non-zero only on the diagonal
+Identity matrix :1’s on diagonal, 0 elsewhere
+Matrix Operations:
+Addition & Subtraction
+Scalar Multiplication: Multiply each element by a number
+Matrix Multiplication: Multiply rows of 1st by columns of 2nd.
+Determinant: 
+A number calculated from a square matrix
+used to check if a matrix is invertible
+det(A) = ad-bc if A=[a b
+                     c d]   
+Inverse of a matrix: A inverse = (adj A)/(det A).
+Transpose of a matrix: flip rows <-> columns
+Eigenvector: Direction that doesn’t change
+Eigenvalue: How much it stretches or shrinks
+A⋅v=λ⋅v 
+v is an eigenvector
+λ is the eigenvalue
+PCA (Principal Component Analysis): Reduces data to fewer dimensions using top eigenvectors.
+Reduce features to 2–3 most important
+Speed up processing
+Remove noise
