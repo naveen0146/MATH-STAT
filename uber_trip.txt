@@ -1,0 +1,5 @@
+Trip ID: 1001
+Rider: Naveen
+Driver: John
+Fare: $50
+Trip Completed Successfully.
