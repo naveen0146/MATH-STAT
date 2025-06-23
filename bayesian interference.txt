@@ -1,0 +1,97 @@
+Airline Satisfaction Analysis by Age Group
+Objective  
+Investigate whether passenger satisfaction and inflight service ratings differ by age group using statistical and Bayesian methods.
+
+Dataset & Preprocessing  
+
+Data Source: `airline_ratings` table from MySQL (Travel database)  
+
+Key Features:  
+age  
+class  
+inflight_wifi_service  
+seat_comfort
+cleanliness  
+food_and_drink  
+satisfaction 
+
+Data Cleaning Steps:  
+- Dropped duplicates  
+- Filled missing numeric values with mean  
+- Filled missing categorical values with mode  
+
+Segmentation by Age Group: 
+- Young: ≤ 30  
+- Middle-aged: 31 – 60  
+- Senior: > 60  
+
+Point Estimation  
+The mean (average) score for each service feature in every age group.
+Use: Provides insight into the central tendency of ratings by group.
+
+Confidence Intervals  
+
+Purpose: Quantify the uncertainty around the mean ratings.
+
+Details:
+- 95% Confidence Interval = Mean ± Margin of Error  
+- Margin of Error calculated using standard error and t-distribution  
+
+Visualization:
+Bar plots with error bars highlight the confidence in service experience ratings across age groups.
+
+Hypothesis Testing (Frequentist: ANOVA)  
+Goal: Test if mean ratings differ significantly across age groups.
+Method: One-way ANOVA  
+
+Hypotheses:  
+- Null (H₀): All groups have the same mean rating.  
+- Alternative (H₁): At least one group differs.  
+
+Significance Level (α): 0.05  
+Interpretation of p-value:  
+- p < 0.05 → Reject H₀ → Significant difference exists  
+- p ≥ 0.05 → Fail to reject H₀ → No significant difference  
+
+Visualization: Bar plots of p-values per feature with a red α line (0.05) indicating significance threshold.
+
+Bayesian Inference  
+Compute the probability that one age group rates a service lower than another.
+
+Approach:
+- Simulate posterior samples of the mean using normal distribution:  
+  N(mean, std / √n)  
+- Compare samples across groups to estimate probabilities, e.g.,  
+  P(Young < Senior in Seat Comfort)  
+
+Interpretation:  
+| Probability | Evidence Strength                   |
+|-------------|-----------------------------------|
+| > 0.95      | ✅ Strong evidence first group rates lower |
+| > 0.80      | ⚠️ Moderate evidence               |
+| ≤ 0.80      | ❌ Weak or no evidence             |
+
+Visualization Summary  
+
+| Plot Type         | Description                                |
+|-------------------|--------------------------------------------|
+| CountPlot         | Satisfaction distribution by Age Group     |
+| BarPlot           | Average service ratings by Age Group       |
+| Error Bars        | Confidence intervals on mean ratings       |
+| ANOVA P-Values    | Hypothesis testing significance per feature|
+| Bayesian Text     | Probability statements on group comparisons|
+
+Export  
+
+A CSV summary file `age_group_summary.csv` is generated containing:  
+- Satisfaction distribution per age group  
+- Mean ratings for all service features  
+
+Tools Used  
+- Python Libraries: `pandas`, `numpy`, `scipy.stats`, `matplotlib`, `seaborn`  
+- Database: MySQL  
+- Statistical Methods: Mean, Confidence Intervals, ANOVA, Bayesian Posterior Sampling  
+
+Conclusion  
+This project combines descriptive statistics, frequentist inference, and Bayesian probability to provide a comprehensive analysis of customer satisfaction differences across age segments. The insights gained can guide airline service improvements and targeted marketing strategies.
+
