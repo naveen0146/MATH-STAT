@@ -1,0 +1,81 @@
+Clustering means grouping similar things together
+K-Means clustering groups travelers by similarity—like trip distance and time—into a set number of clusters you choose. 
+For example, it can split travelers into “short trips” and “long trips” based on their travel data automatically.
+
+Hierarchical clustering
+creating a tree that shows how data points relate at different levels.
+Start with each traveler as their own group.
+Find the two travelers with most similar trips (like trip distance or time) and join them.
+Keep joining the closest groups step-by-step to make bigger traveler groups.
+Stop when you have as many groups as you want or one big group.
+This shows how travelers naturally group by travel habits, from very similar pairs up to broad categories.
+
+DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
+DBSCAN finds groups based on how closely data points are packed and ignores the ones that are too far from any group.
+DBSCAN groups data points that are close together into clusters and labels far-off points as outliers (noise).
+Example:DBSCAN will
+Group people sitting close together into clusters.
+Ignore the lonely person as an outlier.
+If Uber rides cluster naturally in busy downtown areas (dense points), DBSCAN finds those groups. 
+Lonely rides far from downtown are marked as noise.
+
+GMM (Gaussian Mixture Model):
+GMM assumes data comes from multiple overlapping Gaussian (bell-shaped) distributions and softly assigns each point to a cluster based on probability.
+It works well when clusters overlap or have different shapes.
+Example (Travel)
+Say a passenger's data results in:
+70% chance of being in Cluster A (frequent business travelers)
+30% chance of being in Cluster B (occasional travelers)
+Final cluster: Cluster A, but GMM still shows the passenger is also similar to Cluster B.
+
+Association	
+finding relationships between variables or items that often appear together.
+Items that appear together often	Bread → Butter
+Passengers who book business class often select extra legroom.
+Associated travel choices.
+
+Dependency
+one variable’s value depends on another.	
+Delay → Lower Satisfaction
+If the ride distance increases, the fare also increases.
+Fare depends on distance.
+If it’s raining, more people book rides.
+Demand depends on weather.
+
+Correlation (Goes together)
+When two things happen at the same time, they are said to be correlated.
+Causation 
+One thing makes the other happen - "This caused that"
+
+Simpson’s Paradox 
+happens when a trend appears in separate groups of data,
+but the trend reverses or disappears when the groups are combined.
+A student scores:
+90% in Math
+80% in Science
+But:
+Math had 10 questions, and Science had 100 questions.
+When you combine the scores:
+Total = (9 + 80) / (10 + 100) = ~81% overall
+So, it looks like the student did better in Science overall,
+even though they did better in both subjects individually.
+For example, business class may have higher satisfaction on both short and long flights,
+but economy looks better overall due to more short flight passengers. 
+This shows how combined data can be misleading.
+
+K-Means	
+Split trips cleanly into two roundish clusters (short vs long).	
+Dots of different colours separate neatly.
+Hierarchical	
+Drew a dendrogram showing how little groups merge into big ones.	
+Cut the tree at any height to choose “3 clusters”, “5 clusters”, etc.
+DBSCAN	
+Found dense blobs and flagged any sparse points as outliers (label = -1).	
+Great when your real data have irregular cluster shapes or noise.
+GMM	
+Softly assigned each trip a cluster based on probability (overlapping bell-curves).	
+Good when clusters overlap or aren’t perfectly round.
+Simpson’s Paradox demo
+Showed satisfaction by Flight Type × Class (Business wins inside each type) vs. overall (Economy wins).	
+Compare the two bar charts – that flip-flop is Simpson’s Paradox.
+
