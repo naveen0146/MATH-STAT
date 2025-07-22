@@ -1,0 +1,4147 @@
+ngram,frequency,type
+to,617,unigram
+the,578,unigram
+you,577,unigram
+and,569,unigram
+i,512,unigram
+a,433,unigram
+will,290,unigram
+of,243,unigram
+as,242,unigram
+want,228,unigram
+is,223,unigram
+in,216,unigram
+for,212,unigram
+my,212,unigram
+with,206,unigram
+act,178,unigram
+first,157,unigram
+your,156,unigram
+on,132,unigram
+an,124,unigram
+that,117,unigram
+do,111,unigram
+provide,109,unigram
+or,104,unigram
+be,103,unigram
+not,98,unigram
+request,95,unigram
+should,86,unigram
+write,80,unigram
+need,80,unigram
+it,79,unigram
+me,75,unigram
+help,70,unigram
+can,69,unigram
+reply,64,unigram
+their,53,unigram
+this,52,unigram
+about,51,unigram
+only,50,unigram
+explanations,50,unigram
+are,49,unigram
+use,49,unigram
+how,47,unigram
+any,47,unigram
+like,45,unigram
+by,44,unigram
+from,43,unigram
+when,40,unigram
+if,40,unigram
+up,38,unigram
+code,37,unigram
+make,36,unigram
+what,36,unigram
+include,34,unigram
+give,34,unigram
+suggestion,34,unigram
+create,33,unigram
+answer,33,unigram
+have,33,unigram
+them,32,unigram
+language,32,unigram
+prompt,32,unigram
+also,30,unigram
+into,30,unigram
+one,30,unigram
+nothing,30,unigram
+else,30,unigram
+question,28,unigram
+advice,28,unigram
+ask,27,unigram
+other,27,unigram
+words,26,unigram
+so,26,unigram
+information,26,unigram
+such,26,unigram
+new,26,unigram
+order,26,unigram
+type,25,unigram
+english,25,unigram
+tell,24,unigram
+but,24,unigram
+questions,24,unigram
+come,24,unigram
+please,23,unigram
+list,23,unigram
+text,23,unigram
+something,23,unigram
+at,23,unigram
+could,23,unigram
+suggest,23,unigram
+some,23,unigram
+based,22,unigram
+each,21,unigram
+all,21,unigram
+job,21,unigram
+people,20,unigram
+more,20,unigram
+sentence,20,unigram
+topic,20,unigram
+data,20,unigram
+commands,19,unigram
+am,19,unigram
+knowledge,19,unigram
+time,19,unigram
+related,18,unigram
+techniques,18,unigram
+software,18,unigram
+develop,17,unigram
+using,17,unigram
+inside,17,unigram
+sentences,17,unigram
+details,17,unigram
+different,17,unigram
+concepts,17,unigram
+examples,17,unigram
+ideas,17,unigram
+dan,17,unigram
+best,16,unigram
+engaging,16,unigram
+strategies,16,unigram
+task,16,unigram
+these,16,unigram
+plan,16,unigram
+example,16,unigram
+creating,15,unigram
+who,15,unigram
+understanding,15,unigram
+character,15,unigram
+game,15,unigram
+development,15,unigram
+its,15,unigram
+after,15,unigram
+generate,14,unigram
+table,14,unigram
+given,14,unigram
+key,14,unigram
+which,14,unigram
+topics,14,unigram
+providing,14,unigram
+design,14,unigram
+explain,14,unigram
+role,14,unigram
+project,14,unigram
+name,14,unigram
+keep,13,unigram
+word,13,unigram
+detailed,13,unigram
+sure,13,unigram
+they,13,unigram
+’,13,unigram
+terminal,13,unigram
+output,13,unigram
+command,13,unigram
+has,13,unigram
+just,13,unigram
+various,13,unigram
+creative,13,unigram
+between,13,unigram
+through,13,unigram
+move,13,unigram
+input,13,unigram
+goals,12,unigram
+start,12,unigram
+would,12,unigram
+audience,12,unigram
+then,12,unigram
+etc,12,unigram
+skills,12,unigram
+review,12,unigram
+work,12,unigram
+out,12,unigram
+individual,12,unigram
+looking,12,unigram
+professional,12,unigram
+anything,12,unigram
+generator,12,unigram
+relevant,11,unigram
+unique,11,unigram
+block,11,unigram
+curly,11,unigram
+may,11,unigram
+specific,11,unigram
+while,11,unigram
+tools,11,unigram
+“,11,unigram
+research,11,unigram
+provided,11,unigram
+way,11,unigram
+title,11,unigram
+technology,11,unigram
+steps,11,unigram
+expert,11,unigram
+necessary,10,unigram
+ensure,10,unigram
+same,10,unigram
+now,10,unigram
+guide,10,unigram
+able,10,unigram
+potential,10,unigram
+end,10,unigram
+focus,10,unigram
+life,10,unigram
+suggestions,10,unigram
+issues,10,unigram
+ways,10,unigram
+complex,10,unigram
+writing,10,unigram
+experience,10,unigram
+application,10,unigram
+options,10,unigram
+been,10,unigram
+practical,10,unigram
+dont,10,unigram
+moves,10,unigram
+responses,10,unigram
+developer,9,unigram
+person,9,unigram
+including,9,unigram
+brackets,9,unigram
+additional,9,unigram
+stories,9,unigram
+coach,9,unigram
+goal,9,unigram
+movie,9,unigram
+within,9,unigram
+down,9,unigram
+problem,9,unigram
+ai,9,unigram
+improve,9,unigram
+app,9,unigram
+user,9,unigram
+system,9,unigram
+methods,9,unigram
+guidance,9,unigram
+understand,9,unigram
+technical,9,unigram
+content,9,unigram
+where,9,unigram
+insights,9,unigram
+approach,9,unigram
+because,9,unigram
+describe,9,unigram
+message,8,unigram
+clear,8,unigram
+10,8,unigram
+1,8,unigram
+show,8,unigram
+putting,8,unigram
+world,8,unigram
+replies,8,unigram
+respond,8,unigram
+product,8,unigram
+activities,8,unigram
+s,8,unigram
+engage,8,unigram
+events,8,unigram
+personal,8,unigram
+”,8,unigram
+go,8,unigram
+both,8,unigram
+effective,8,unigram
+most,8,unigram
+theme,8,unigram
+say,8,unigram
+solutions,8,unigram
+problems,8,unigram
+developing,8,unigram
+feedback,8,unigram
+composition,8,unigram
+company,8,unigram
+managing,8,unigram
+back,8,unigram
+over,8,unigram
+available,8,unigram
+learning,8,unigram
+break,8,unigram
+statement,8,unigram
+users,8,unigram
+students,8,unigram
+notes,8,unigram
+response,8,unigram
+step,8,unigram
+format,8,unigram
+architectural,8,unigram
+making,7,unigram
+article,7,unigram
+possible,7,unigram
+must,7,unigram
+unless,7,unigram
+meaning,7,unigram
+conversation,7,unigram
+youll,7,unigram
+numbers,7,unigram
+column,7,unigram
+number,7,unigram
+correct,7,unigram
+location,7,unigram
+process,7,unigram
+better,7,unigram
+story,7,unigram
+current,7,unigram
+written,7,unigram
+piece,7,unigram
+easy,7,unigram
+communication,7,unigram
+express,7,unigram
+put,7,unigram
+study,7,unigram
+instructions,7,unigram
+resources,7,unigram
+further,7,unigram
+thoughts,7,unigram
+career,7,unigram
+well,7,unigram
+consider,7,unigram
+recommendations,7,unigram
+along,7,unigram
+book,7,unigram
+pretend,7,unigram
+python,7,unigram
+here,7,unigram
+there,7,unigram
+next,7,unigram
+body,7,unigram
+lecture,7,unigram
+share,7,unigram
+without,7,unigram
+try,7,unigram
+bullet,7,unigram
+we,7,unigram
+board,7,unigram
+concise,7,unigram
+chatgpt,7,unigram
+buddha,7,unigram
+guess,7,unigram
+outline,6,unigram
+keyword,6,unigram
+instruct,6,unigram
+answers,6,unigram
+pronunciations,6,unigram
+lets,6,unigram
+speech,6,unigram
+tone,6,unigram
+depending,6,unigram
+might,6,unigram
+interesting,6,unigram
+those,6,unigram
+helpful,6,unigram
+suggesting,6,unigram
+stay,6,unigram
+song,6,unigram
+points,6,unigram
+our,6,unigram
+web,6,unigram
+important,6,unigram
+yet,6,unigram
+meaningful,6,unigram
+short,6,unigram
+explore,6,unigram
+mathematical,6,unigram
+needs,6,unigram
+digital,6,unigram
+market,6,unigram
+someone,6,unigram
+overall,6,unigram
+mind,6,unigram
+enhance,6,unigram
+coding,6,unigram
+patient,6,unigram
+recommend,6,unigram
+being,6,unigram
+during,6,unigram
+images,6,unigram
+following,6,unigram
+according,6,unigram
+additionally,6,unigram
+programming,6,unigram
+continue,6,unigram
+simple,6,unigram
+tech,6,unigram
+scenarios,6,unigram
+no,6,unigram
+sources,6,unigram
+functionality,6,unigram
+learn,6,unigram
+interpreter,6,unigram
+x,6,unigram
+restaurant,6,unigram
+architecture,6,unigram
+summary,6,unigram
+video,6,unigram
+girl,6,unigram
+tags,6,unigram
+experienced,5,unigram
+messages,5,unigram
+seo,5,unigram
+prompts,5,unigram
+top,5,unigram
+2,5,unigram
+level,5,unigram
+does,5,unigram
+excel,5,unigram
+speaking,5,unigram
+teacher,5,unigram
+practice,5,unigram
+visit,5,unigram
+target,5,unigram
+needed,5,unigram
+descriptions,5,unigram
+analysis,5,unigram
+than,5,unigram
+take,5,unigram
+achieve,5,unigram
+involve,5,unigram
+positive,5,unigram
+music,5,unigram
+present,5,unigram
+opinion,5,unigram
+frontend,5,unigram
+characters,5,unigram
+future,5,unigram
+cover,5,unigram
+made,5,unigram
+feel,5,unigram
+avoid,5,unigram
+enough,5,unigram
+yourself,5,unigram
+ethical,5,unigram
+terms,5,unigram
+visuals,5,unigram
+natural,5,unigram
+designing,5,unigram
+social,5,unigram
+find,5,unigram
+situation,5,unigram
+follow,5,unigram
+lifestyle,5,unigram
+practices,5,unigram
+budget,5,unigram
+preferences,5,unigram
+requirements,5,unigram
+client,5,unigram
+large,5,unigram
+healthy,5,unigram
+business,5,unigram
+principles,5,unigram
+machine,5,unigram
+financial,5,unigram
+artist,5,unigram
+styles,5,unigram
+tips,5,unigram
+upon,5,unigram
+appropriate,5,unigram
+customer,5,unigram
+space,5,unigram
+internet,5,unigram
+lot,5,unigram
+products,5,unigram
+think,5,unigram
+get,5,unigram
+accurate,5,unigram
+idea,5,unigram
+max,5,unigram
+reviewing,5,unigram
+none,5,unigram
+responsible,5,unigram
+solution,5,unigram
+point,5,unigram
+projects,5,unigram
+exploring,5,unigram
+concept,5,unigram
+test,5,unigram
+subject,5,unigram
+offer,5,unigram
+three,5,unigram
+add,5,unigram
+model,5,unigram
+hello,5,unigram
+expressions,5,unigram
+regular,5,unigram
+5,5,unigram
+post,5,unigram
+password,5,unigram
+page,5,unigram
+explanation,5,unigram
+aspects,5,unigram
+vessel,5,unigram
+right,5,unigram
+analogies,5,unigram
+public,4,unigram
+count,4,unigram
+many,4,unigram
+times,4,unigram
+results,4,unigram
+high,4,unigram
+very,4,unigram
+comprehensive,4,unigram
+long,4,unigram
+speak,4,unigram
+translate,4,unigram
+version,4,unigram
+beautiful,4,unigram
+once,4,unigram
+letters,4,unigram
+empty,4,unigram
+result,4,unigram
+assistant,4,unigram
+turkish,4,unigram
+istanbul,4,unigram
+100,4,unigram
+grammar,4,unigram
+mistakes,4,unigram
+factual,4,unigram
+errors,4,unigram
+remember,4,unigram
+travel,4,unigram
+state,4,unigram
+series,4,unigram
+know,4,unigram
+promote,4,unigram
+choose,4,unigram
+media,4,unigram
+reach,4,unigram
+energy,4,unigram
+young,4,unigram
+educational,4,unigram
+themes,4,unigram
+session,4,unigram
+children,4,unigram
+progress,4,unigram
+match,4,unigram
+involved,4,unigram
+routine,4,unigram
+experiences,4,unigram
+challenges,4,unigram
+giving,4,unigram
+upcoming,4,unigram
+lyrics,4,unigram
+bring,4,unigram
+persuasive,4,unigram
+conclusions,4,unigram
+indepth,4,unigram
+length,4,unigram
+set,4,unigram
+historical,4,unigram
+critic,4,unigram
+improving,4,unigram
+solving,4,unigram
+emotions,4,unigram
+finding,4,unigram
+inspire,4,unigram
+breaking,4,unigram
+pieces,4,unigram
+stepbystep,4,unigram
+online,4,unigram
+intelligence,4,unigram
+security,4,unigram
+decisions,4,unigram
+offering,4,unigram
+tricks,4,unigram
+trends,4,unigram
+engineering,4,unigram
+pet,4,unigram
+behavior,4,unigram
+helping,4,unigram
+physical,4,unigram
+fitness,4,unigram
+factors,4,unigram
+dream,4,unigram
+single,4,unigram
+services,4,unigram
+assistance,4,unigram
+features,4,unigram
+history,4,unigram
+treatment,4,unigram
+focuses,4,unigram
+cost,4,unigram
+recipes,4,unigram
+includes,4,unigram
+us,4,unigram
+engine,4,unigram
+car,4,unigram
+art,4,unigram
+across,4,unigram
+types,4,unigram
+used,4,unigram
+color,4,unigram
+calling,4,unigram
+staying,4,unigram
+modern,4,unigram
+relationships,4,unigram
+description,4,unigram
+address,4,unigram
+last,4,unigram
+teaching,4,unigram
+ascii,4,unigram
+per,4,unigram
+detail,4,unigram
+domain,4,unigram
+paper,4,unigram
+landscape,4,unigram
+lunatic,4,unigram
+logical,4,unigram
+reasoning,4,unigram
+writer,4,unigram
+brand,4,unigram
+line,4,unigram
+informative,4,unigram
+update,4,unigram
+apply,4,unigram
+utilize,4,unigram
+another,4,unigram
+analyze,4,unigram
+original,4,unigram
+virtual,4,unigram
+basic,4,unigram
+object,4,unigram
+wrote,4,unigram
+synonyms,4,unigram
+engineer,4,unigram
+image,4,unigram
+markdown,4,unigram
+send,4,unigram
+solve,4,unigram
+roles,4,unigram
+read,4,unigram
+php,4,unigram
+blank,4,unigram
+link,4,unigram
+value,4,unigram
+startup,4,unigram
+sales,4,unigram
+asking,4,unigram
+youre,4,unigram
+commit,4,unigram
+n,4,unigram
+playlist,4,unigram
+letter,4,unigram
+working,4,unigram
+4,4,unigram
+things,4,unigram
+reaction,4,unigram
+substance,4,unigram
+note,4,unigram
+structure,4,unigram
+realworld,4,unigram
+imagine,3,unigram
+tasked,3,unigram
+smart,3,unigram
+contract,3,unigram
+everyone,3,unigram
+google,3,unigram
+every,3,unigram
+section,3,unigram
+too,3,unigram
+keywords,3,unigram
+3,3,unigram
+links,3,unigram
+articles,3,unigram
+spelling,3,unigram
+improvements,3,unigram
+interviewer,3,unigram
+wait,3,unigram
+row,3,unigram
+reference,3,unigram
+pronunciation,3,unigram
+weather,3,unigram
+near,3,unigram
+cases,3,unigram
+speaker,3,unigram
+campaign,3,unigram
+service,3,unigram
+choice,3,unigram
+aged,3,unigram
+entertaining,3,unigram
+imaginative,3,unigram
+attention,3,unigram
+talk,3,unigram
+football,3,unigram
+knowledgeable,3,unigram
+intelligent,3,unigram
+commentary,3,unigram
+im,3,unigram
+myself,3,unigram
+composer,3,unigram
+arguments,3,unigram
+debate,3,unigram
+team,3,unigram
+success,3,unigram
+organizing,3,unigram
+feature,3,unigram
+complete,3,unigram
+genre,3,unigram
+plot,3,unigram
+direction,3,unigram
+score,3,unigram
+special,3,unigram
+relationship,3,unigram
+two,3,unigram
+trying,3,unigram
+powerful,3,unigram
+together,3,unigram
+action,3,unigram
+beyond,3,unigram
+philosophy,3,unigram
+easytounderstand,3,unigram
+philosophical,3,unigram
+theories,3,unigram
+everyday,3,unigram
+demonstrating,3,unigram
+works,3,unigram
+student,3,unigram
+artificial,3,unigram
+form,3,unigram
+somebody,3,unigram
+website,3,unigram
+testing,3,unigram
+certain,3,unigram
+reaching,3,unigram
+attending,3,unigram
+difficult,3,unigram
+stress,3,unigram
+news,3,unigram
+provides,3,unigram
+own,3,unigram
+why,3,unigram
+interests,3,unigram
+wants,3,unigram
+owner,3,unigram
+accordingly,3,unigram
+science,3,unigram
+suitable,3,unigram
+mental,3,unigram
+health,3,unigram
+wellbeing,3,unigram
+manage,3,unigram
+symptoms,3,unigram
+home,3,unigram
+perfect,3,unigram
+house,3,unigram
+event,3,unigram
+account,3,unigram
+transportation,3,unigram
+safety,3,unigram
+concerns,3,unigram
+treatments,3,unigram
+doctor,3,unigram
+traditional,3,unigram
+tests,3,unigram
+alternatives,3,unigram
+management,3,unigram
+small,3,unigram
+therefore,3,unigram
+expertise,3,unigram
+regarding,3,unigram
+advisor,3,unigram
+artists,3,unigram
+charts,3,unigram
+environment,3,unigram
+assisting,3,unigram
+term,3,unigram
+seeking,3,unigram
+contains,3,unigram
+period,3,unigram
+quality,3,unigram
+initial,3,unigram
+said,3,unigram
+presenting,3,unigram
+significant,3,unigram
+motivated,3,unigram
+items,3,unigram
+quotes,3,unigram
+run,3,unigram
+gives,3,unigram
+ip,3,unigram
+few,3,unigram
+going,3,unigram
+braces,3,unigram
+statistics,3,unigram
+calculating,3,unigram
+active,3,unigram
+beginners,3,unigram
+explaining,3,unigram
+tables,3,unigram
+queries,3,unigram
+scientific,3,unigram
+confirm,3,unigram
+package,3,unigram
+documentation,3,unigram
+stackoverflow,3,unigram
+github,3,unigram
+repository,3,unigram
+document,3,unigram
+renewable,3,unigram
+integrate,3,unigram
+network,3,unigram
+called,3,unigram
+comments,3,unigram
+always,3,unigram
+did,3,unigram
+strengths,3,unigram
+improvement,3,unigram
+justice,3,unigram
+proper,3,unigram
+executive,3,unigram
+maps,3,unigram
+interactive,3,unigram
+deliver,3,unigram
+around,3,unigram
+routes,3,unigram
+traffic,3,unigram
+clients,3,unigram
+cultural,3,unigram
+primary,3,unigram
+musical,3,unigram
+style,3,unigram
+major,3,unigram
+cities,3,unigram
+look,3,unigram
+food,3,unigram
+handle,3,unigram
+accident,3,unigram
+building,3,unigram
+biblical,3,unigram
+url,3,unigram
+understandable,3,unigram
+chess,3,unigram
+free,3,unigram
+shape,3,unigram
+expression,3,unigram
+ill,3,unigram
+simply,3,unigram
+size,3,unigram
+emojis,3,unigram
+crisis,3,unigram
+fill,3,unigram
+worksheets,3,unigram
+second,3,unigram
+performance,3,unigram
+o,3,unigram
+forms,3,unigram
+8,3,unigram
+enter,3,unigram
+numbered,3,unigram
+forward,3,unigram
+react,3,unigram
+search,3,unigram
+documents,3,unigram
+collection,3,unigram
+let,3,unigram
+core,3,unigram
+wish,3,unigram
+marketing,3,unigram
+year,3,unigram
+diagrams,3,unigram
+diagram,3,unigram
+under,3,unigram
+songs,3,unigram
+ive,3,unigram
+resume,3,unigram
+reactjs,3,unigram
+immerse,3,unigram
+rules,3,unigram
+date,3,unigram
+tokens,3,unigram
+play,3,unigram
+begin,3,unigram
+chemical,3,unigram
+previous,3,unigram
+kanji,3,unigram
+quiz,3,unigram
+context,3,unigram
+deeper,3,unigram
+thinking,3,unigram
+league,3,unigram
+legends,3,unigram
+references,3,unigram
+crafting,3,unigram
+yes,3,unigram
+guesses,3,unigram
+git,3,unigram
+exercises,3,unigram
+notation,3,unigram
+flirting,3,unigram
+chat,3,unigram
+funny,3,unigram
+dax,3,unigram
+measures,3,unigram
+branding,3,unigram
+blockchain,2,unigram
+save,2,unigram
+purpose,2,unigram
+functions,2,unigram
+achieving,2,unigram
+2000,2,unigram
+headings,2,unigram
+external,2,unigram
+part,2,unigram
+linux,2,unigram
+translator,2,unigram
+improver,2,unigram
+corrected,2,unigram
+improved,2,unigram
+replace,2,unigram
+simplified,2,unigram
+a0level,2,unigram
+elegant,2,unigram
+literary,2,unigram
+correction,2,unigram
+cok,2,unigram
+candidate,2,unigram
+interview,2,unigram
+position,2,unigram
+hi,2,unigram
+javascript,2,unigram
+console,2,unigram
+sheet,2,unigram
+formulas,2,unigram
+execute,2,unigram
+translations,2,unigram
+latin,2,unigram
+phonetics,2,unigram
+spoken,2,unigram
+strictly,2,unigram
+typos,2,unigram
+place,2,unigram
+places,2,unigram
+similar,2,unigram
+plagiarism,2,unigram
+computers,2,unigram
+emotional,2,unigram
+manner,2,unigram
+select,2,unigram
+channels,2,unigram
+targeting,2,unigram
+adults,2,unigram
+captivating,2,unigram
+tales,2,unigram
+capture,2,unigram
+animals,2,unigram
+matches,2,unigram
+happened,2,unigram
+far,2,unigram
+terminology,2,unigram
+rather,2,unigram
+creativity,2,unigram
+incorporate,2,unigram
+relatable,2,unigram
+motivational,2,unigram
+poem,2,unigram
+named,2,unigram
+valid,2,unigram
+side,2,unigram
+opposing,2,unigram
+evidence,2,unigram
+away,2,unigram
+hand,2,unigram
+prepare,2,unigram
+either,2,unigram
+film,2,unigram
+viewers,2,unigram
+coming,2,unigram
+filled,2,unigram
+turns,2,unigram
+until,2,unigram
+readers,2,unigram
+periods,2,unigram
+aim,2,unigram
+acting,2,unigram
+cinematography,2,unigram
+effects,2,unigram
+emphasize,2,unigram
+critical,2,unigram
+power,2,unigram
+convey,2,unigram
+intriguing,2,unigram
+choosing,2,unigram
+catchy,2,unigram
+sound,2,unigram
+possibilities,2,unigram
+smaller,2,unigram
+applied,2,unigram
+framework,2,unigram
+decision,2,unigram
+equations,2,unigram
+thesis,2,unigram
+uxui,2,unigram
+designs,2,unigram
+navigation,2,unigram
+specialist,2,unigram
+implementing,2,unigram
+cybersecurity,2,unigram
+strategy,2,unigram
+qualified,2,unigram
+even,2,unigram
+objectives,2,unigram
+plans,2,unigram
+healthier,2,unigram
+habits,2,unigram
+origin,2,unigram
+insightful,2,unigram
+facts,2,unigram
+climate,2,unigram
+change,2,unigram
+watch,2,unigram
+determine,2,unigram
+industries,2,unigram
+beneficial,2,unigram
+pursuing,2,unigram
+particular,2,unigram
+fields,2,unigram
+advise,2,unigram
+adjust,2,unigram
+animal,2,unigram
+become,2,unigram
+exercise,2,unigram
+nutrition,2,unigram
+program,2,unigram
+meditation,2,unigram
+therapeutic,2,unigram
+implement,2,unigram
+real,2,unigram
+agent,2,unigram
+local,2,unigram
+fit,2,unigram
+takes,2,unigram
+mitigate,2,unigram
+risks,2,unigram
+associated,2,unigram
+meeting,2,unigram
+diagnose,2,unigram
+teeth,2,unigram
+care,2,unigram
+foods,2,unigram
+consultant,2,unigram
+organization,2,unigram
+companys,2,unigram
+languages,2,unigram
+latest,2,unigram
+medical,2,unigram
+diagnosing,2,unigram
+case,2,unigram
+severe,2,unigram
+pain,2,unigram
+conventional,2,unigram
+age,2,unigram
+suffering,2,unigram
+risk,2,unigram
+laws,2,unigram
+longterm,2,unigram
+among,2,unigram
+effectiveness,2,unigram
+ends,2,unigram
+–,2,unigram
+light,2,unigram
+parts,2,unigram
+figure,2,unigram
+whats,2,unigram
+required,2,unigram
+effectively,2,unigram
+artwork,2,unigram
+individuals,2,unigram
+predictions,2,unigram
+stock,2,unigram
+looks,2,unigram
+conditions,2,unigram
+return,2,unigram
+prices,2,unigram
+query,2,unigram
+tea,2,unigram
+carefully,2,unigram
+reporting,2,unigram
+jargon,2,unigram
+determining,2,unigram
+green,2,unigram
+room,2,unigram
+hall,2,unigram
+decorative,2,unigram
+construct,2,unigram
+requested,2,unigram
+areas,2,unigram
+outdoor,2,unigram
+area,2,unigram
+docker,2,unigram
+paste,2,unigram
+sharing,2,unigram
+sessions,2,unigram
+generated,2,unigram
+reveal,2,unigram
+access,2,unigram
+fancy,2,unigram
+via,2,unigram
+comma,2,unigram
+titles,2,unigram
+statistical,2,unigram
+confidence,2,unigram
+helper,2,unigram
+gave,2,unigram
+school,2,unigram
+algorithms,2,unigram
+algorithm,2,unigram
+sort,2,unigram
+later,2,unigram
+corresponding,2,unigram
+whenever,2,unigram
+database,2,unigram
+vegetarian,2,unigram
+recipe,2,unigram
+calories,2,unigram
+low,2,unigram
+index,2,unigram
+thought,2,unigram
+ok,2,unigram
+reviewer,2,unigram
+found,2,unigram
+submitted,2,unigram
+contexts,2,unigram
+added,2,unigram
+competitors,2,unigram
+benefits,2,unigram
+websites,2,unigram
+isnt,2,unigram
+researching,2,unigram
+identify,2,unigram
+organize,2,unigram
+material,2,unigram
+accurately,2,unigram
+architect,2,unigram
+mapping,2,unigram
+blueprint,2,unigram
+integration,2,unigram
+arbitrary,2,unigram
+placed,2,unigram
+call,2,unigram
+assumptions,2,unigram
+weaknesses,2,unigram
+guides,2,unigram
+taking,2,unigram
+platforms,2,unigram
+instagram,2,unigram
+twitter,2,unigram
+youtube,2,unigram
+increase,2,unigram
+awareness,2,unigram
+socrat,2,unigram
+socratic,2,unigram
+method,2,unigram
+questioning,2,unigram
+beauty,2,unigram
+attempt,2,unigram
+logic,2,unigram
+claim,2,unigram
+creator,2,unigram
+materials,2,unigram
+courses,2,unigram
+personalized,2,unigram
+lead,2,unigram
+relaxation,2,unigram
+adjustments,2,unigram
+community,2,unigram
+essay,2,unigram
+importance,2,unigram
+manager,2,unigram
+analytics,2,unigram
+regularly,2,unigram
+challenging,2,unigram
+delivering,2,unigram
+visualization,2,unigram
+compelling,2,unigram
+r,2,unigram
+levels,2,unigram
+construction,2,unigram
+changes,2,unigram
+past,2,unigram
+uncovering,2,unigram
+human,2,unigram
+lives,2,unigram
+interpret,2,unigram
+interested,2,unigram
+negative,2,unigram
+allow,2,unigram
+leaving,2,unigram
+voice,2,unigram
+asked,2,unigram
+fashion,2,unigram
+file,2,unigram
+objects,2,unigram
+cat,2,unigram
+printhello,2,unigram
+exist,2,unigram
+diagnosis,2,unigram
+experiencing,2,unigram
+dinner,2,unigram
+legal,2,unigram
+outfits,2,unigram
+formal,2,unigram
+dataset,2,unigram
+labels,2,unigram
+svg,2,unigram
+convert,2,unigram
+player,2,unigram
+white,2,unigram
+field,2,unigram
+secure,2,unigram
+golang,2,unigram
+angular,2,unigram
+patterns,2,unigram
+sights,2,unigram
+interpretations,2,unigram
+opinions,2,unigram
+string,2,unigram
+wrapping,2,unigram
+aid,2,unigram
+emergency,2,unigram
+intermediate,2,unigram
+standards,2,unigram
+reports,2,unigram
+reflect,2,unigram
+capitalized,2,unigram
+lowercase,2,unigram
+t,2,unigram
+imaginary,2,unigram
+contents,2,unigram
+pages,2,unigram
+files,2,unigram
+lists,2,unigram
+solr,2,unigram
+inline,2,unigram
+json,2,unigram
+having,2,unigram
+separated,2,unigram
+followed,2,unigram
+option,2,unigram
+third,2,unigram
+theres,2,unigram
+main,2,unigram
+today,2,unigram
+kiel,2,unigram
+valuable,2,unigram
+strategic,2,unigram
+interest,2,unigram
+least,2,unigram
+nodes,2,unigram
+node,2,unigram
+actionable,2,unigram
+ability,2,unigram
+communicate,2,unigram
+stuttering,2,unigram
+partner,2,unigram
+agreement,2,unigram
+five,2,unigram
+20,2,unigram
+base,2,unigram
+prd,2,unigram
+drunk,2,unigram
+randomly,2,unigram
+random,2,unigram
+map,2,unigram
+mapped,2,unigram
+explicitly,2,unigram
+converting,2,unigram
+al,2,unigram
+inform,2,unigram
+fully,2,unigram
+indicate,2,unigram
+understood,2,unigram
+before,2,unigram
+teachings,2,unigram
+greetings,2,unigram
+muslim,2,unigram
+source,2,unigram
+useful,2,unigram
+wikipedia,2,unigram
+paragraph,2,unigram
+overview,2,unigram
+japanese,2,unigram
+evaluate,2,unigram
+chose,2,unigram
+notetaking,2,unigram
+believe,2,unigram
+separate,2,unigram
+included,2,unigram
+multilayered,2,unigram
+ticket,2,unigram
+specializing,2,unigram
+journey,2,unigram
+outside,2,unigram
+asks,2,unigram
+playing,2,unigram
+dishes,2,unigram
+theory,2,unigram
+codes,2,unigram
+responsibilities,2,unigram
+answering,2,unigram
+strong,2,unigram
+junior,2,unigram
+mentor,2,unigram
+problemsolving,2,unigram
+transcript,2,unigram
+breakdown,2,unigram
+ensuring,2,unigram
+background,2,unigram
+align,2,unigram
+proceed,2,unigram
+guidelines,2,unigram
+tool,2,unigram
+build,2,unigram
+15,2,unigram
+maximum,2,unigram
+categories,2,unigram
+scratch,2,unigram
+push,2,unigram
+guiding,2,unigram
+encourage,2,unigram
+support,2,unigram
+algebraic,2,unigram
+old,2,unigram
+writes,2,unigram
+emojees,2,unigram
+carry,2,unigram
+hey,2,unigram
+exploration,2,unigram
+intellectual,2,unigram
+dimension,2,unigram
+calendar,2,unigram
+fact,2,unigram
+oneway,2,unigram
+onetomany,2,unigram
+multiple,2,unigram
+approaches,2,unigram
+reflection,2,unigram
+honest,2,unigram
+reward,2,unigram
+aye,2,unigram
+linkedin,2,unigram
+clarifier,2,unigram
+specialized,2,unigram
+optimized,2,unigram
+refine,2,unigram
+clarify,2,unigram
+enhancement,2,unigram
+iterative,2,unigram
+refinement,2,unigram
+accessible,2,unigram
+general,2,unigram
+focusing,2,unigram
+discussing,2,unigram
+clarity,2,unigram
+overly,2,unigram
+clarification,2,unigram
+approachable,2,unigram
+6,2,unigram
+discussed,2,unigram
+i want,221,bigram
+you to,215,bigram
+want you,203,bigram
+act as,170,bigram
+to act,166,bigram
+as a,134,bigram
+my first,134,bigram
+i will,131,bigram
+you will,116,bigram
+request is,91,bigram
+is i,77,bigram
+do not,69,bigram
+i need,67,bigram
+and you,62,bigram
+first request,60,bigram
+will provide,60,bigram
+of the,51,bigram
+need help,44,bigram
+not write,42,bigram
+is to,39,bigram
+with the,38,bigram
+you should,38,bigram
+in the,37,bigram
+reply with,36,bigram
+will be,35,bigram
+write explanations,35,bigram
+first suggestion,32,bigram
+suggestion request,32,bigram
+provide you,32,bigram
+as an,30,bigram
+you with,30,bigram
+and nothing,28,bigram
+nothing else,28,bigram
+on the,26,bigram
+need to,25,bigram
+should be,25,bigram
+such as,24,bigram
+in order,24,bigram
+with a,24,bigram
+for the,23,bigram
+only reply,23,bigram
+up with,23,bigram
+to the,22,bigram
+come up,22,bigram
+order to,22,bigram
+for a,20,bigram
+when i,20,bigram
+else do,19,bigram
+tell you,19,bigram
+i am,19,bigram
+in a,19,bigram
+you are,18,bigram
+you can,18,bigram
+based on,17,bigram
+want to,17,bigram
+will reply,16,bigram
+how to,16,bigram
+and the,15,bigram
+do so,15,bigram
+in english,15,bigram
+your job,15,bigram
+give me,14,bigram
+like this,14,bigram
+will write,14,bigram
+and i,14,bigram
+about the,14,bigram
+and it,13,bigram
+that can,13,bigram
+provide a,13,bigram
+related to,12,bigram
+to do,12,bigram
+english i,12,bigram
+will do,12,bigram
+of your,12,bigram
+use your,12,bigram
+it will,12,bigram
+be your,12,bigram
+job to,12,bigram
+this could,12,bigram
+task is,12,bigram
+on how,12,bigram
+type commands,11,bigram
+to only,11,bigram
+code block,11,bigram
+to tell,11,bigram
+you something,11,bigram
+something in,11,bigram
+command is,11,bigram
+explanations my,11,bigram
+first sentence,11,bigram
+sentence is,11,bigram
+give you,11,bigram
+knowledge of,11,bigram
+to create,11,bigram
+to help,11,bigram
+from the,11,bigram
+to be,11,bigram
+advice on,11,bigram
+and other,11,bigram
+list of,10,bigram
+this my,10,bigram
+first command,10,bigram
+of my,10,bigram
+to write,10,bigram
+should use,10,bigram
+be able,10,bigram
+able to,10,bigram
+will give,10,bigram
+your task,10,bigram
+provide some,10,bigram
+of a,10,bigram
+create a,9,bigram
+me a,9,bigram
+the terminal,9,bigram
+brackets like,9,bigram
+will ask,9,bigram
+me the,9,bigram
+will tell,9,bigram
+in your,9,bigram
+that are,9,bigram
+any explanations,9,bigram
+a new,9,bigram
+the game,9,bigram
+to come,9,bigram
+and your,9,bigram
+on their,9,bigram
+help me,9,bigram
+to provide,9,bigram
+should only,9,bigram
+provide the,8,bigram
+will type,8,bigram
+explanations do,8,bigram
+curly brackets,8,bigram
+as the,8,bigram
+how the,8,bigram
+’ s,8,bigram
+should also,8,bigram
+into the,8,bigram
+information about,8,bigram
+i have,8,bigram
+focus on,8,bigram
+of an,8,bigram
+with an,8,bigram
+looking for,8,bigram
+your role,8,bigram
+to reply,8,bigram
+and a,8,bigram
+as my,8,bigram
+explanations or,8,bigram
+the code,7,bigram
+keep the,7,bigram
+that i,7,bigram
+generate a,7,bigram
+one unique,7,bigram
+unique code,7,bigram
+block and,7,bigram
+so by,7,bigram
+by putting,7,bigram
+text inside,7,bigram
+to you,7,bigram
+it and,7,bigram
+words and,7,bigram
+ask me,7,bigram
+all the,7,bigram
+for my,7,bigram
+world i,7,bigram
+you my,7,bigram
+write any,7,bigram
+help creating,7,bigram
+can be,7,bigram
+for your,7,bigram
+to make,7,bigram
+your goal,7,bigram
+goal is,7,bigram
+the topic,7,bigram
+the most,7,bigram
+it is,7,bigram
+with your,7,bigram
+the best,7,bigram
+you a,7,bigram
+can you,7,bigram
+your knowledge,7,bigram
+role is,7,bigram
+plan for,7,bigram
+as well,7,bigram
+well as,7,bigram
+you have,7,bigram
+for example,7,bigram
+me with,7,bigram
+ask you,7,bigram
+your first,7,bigram
+on a,7,bigram
+the first,7,bigram
+me to,7,bigram
+to generate,7,bigram
+and provide,7,bigram
+an expert,7,bigram
+code and,6,bigram
+for an,6,bigram
+that will,6,bigram
+for each,6,bigram
+a list,6,bigram
+make sure,6,bigram
+with what,6,bigram
+what the,6,bigram
+inside one,6,bigram
+not type,6,bigram
+commands unless,6,bigram
+unless i,6,bigram
+i instruct,6,bigram
+instruct you,6,bigram
+so when,6,bigram
+putting text,6,bigram
+inside curly,6,bigram
+language and,6,bigram
+write you,6,bigram
+will only,6,bigram
+to me,6,bigram
+a question,6,bigram
+will also,6,bigram
+you the,6,bigram
+will create,6,bigram
+goals and,6,bigram
+with strategies,6,bigram
+can do,6,bigram
+to a,6,bigram
+could include,6,bigram
+will develop,6,bigram
+start with,6,bigram
+that the,6,bigram
+or other,6,bigram
+ways to,6,bigram
+an individual,6,bigram
+individual looking,6,bigram
+with details,6,bigram
+use the,6,bigram
+along with,6,bigram
+according to,6,bigram
+provide me,6,bigram
+if i,6,bigram
+the output,6,bigram
+the prompt,6,bigram
+if you,6,bigram
+the new,6,bigram
+for me,6,bigram
+will need,6,bigram
+not provide,6,bigram
+it with,6,bigram
+do anything,6,bigram
+dan can,6,bigram
+the buddha,6,bigram
+to ensure,5,bigram
+the keyword,5,bigram
+the word,5,bigram
+detailed and,5,bigram
+include any,5,bigram
+output inside,5,bigram
+reply the,5,bigram
+questions and,5,bigram
+and youll,5,bigram
+only the,5,bigram
+only answer,5,bigram
+reply to,5,bigram
+you could,5,bigram
+will suggest,5,bigram
+type of,5,bigram
+the given,5,bigram
+act like,5,bigram
+creating an,5,bigram
+will come,5,bigram
+coach i,5,bigram
+can help,5,bigram
+could involve,5,bigram
+write a,5,bigram
+details about,5,bigram
+should have,5,bigram
+do something,5,bigram
+to explain,5,bigram
+concepts in,5,bigram
+to use,5,bigram
+to improve,5,bigram
+about my,5,bigram
+of that,5,bigram
+help them,5,bigram
+and advice,5,bigram
+and come,5,bigram
+the information,5,bigram
+number of,5,bigram
+to develop,5,bigram
+is “,5,bigram
+to enhance,5,bigram
+in my,5,bigram
+a lot,5,bigram
+a prompt,5,bigram
+programming language,5,bigram
+be responsible,5,bigram
+responsible for,5,bigram
+the key,5,bigram
+respond with,5,bigram
+and create,5,bigram
+to understand,5,bigram
+ask for,5,bigram
+like a,5,bigram
+interpreter i,5,bigram
+is the,5,bigram
+about a,5,bigram
+first prompt,5,bigram
+first question,5,bigram
+be a,5,bigram
+have to,5,bigram
+your responses,5,bigram
+as dan,5,bigram
+anything now,5,bigram
+can not,5,bigram
+the right,5,bigram
+please provide,4,bigram
+create an,4,bigram
+an article,4,bigram
+to my,4,bigram
+other words,4,bigram
+commands and,4,bigram
+show i,4,bigram
+terminal output,4,bigram
+an english,4,bigram
+you in,4,bigram
+in any,4,bigram
+the language,4,bigram
+and sentences,4,bigram
+the meaning,4,bigram
+the conversation,4,bigram
+reply me,4,bigram
+numbers and,4,bigram
+what to,4,bigram
+the result,4,bigram
+assistant for,4,bigram
+sentences and,4,bigram
+explanations on,4,bigram
+on replies,4,bigram
+replies my,4,bigram
+is how,4,bigram
+me in,4,bigram
+to visit,4,bigram
+also suggest,4,bigram
+the audience,4,bigram
+depending on,4,bigram
+you may,4,bigram
+if it,4,bigram
+involved in,4,bigram
+with some,4,bigram
+some topics,4,bigram
+and engaging,4,bigram
+tools such,4,bigram
+an engaging,4,bigram
+engaging and,4,bigram
+and creative,4,bigram
+with creative,4,bigram
+time you,4,bigram
+some details,4,bigram
+strategies for,4,bigram
+help developing,4,bigram
+concepts and,4,bigram
+natural language,4,bigram
+feedback on,4,bigram
+to suggest,4,bigram
+to find,4,bigram
+” i,4,bigram
+situation and,4,bigram
+you do,4,bigram
+someone who,4,bigram
+advice and,4,bigram
+guidance and,4,bigram
+by the,4,bigram
+suggest the,4,bigram
+machine learning,4,bigram
+your recommendations,4,bigram
+treatment plan,4,bigram
+focuses on,4,bigram
+could be,4,bigram
+tell me,4,bigram
+if the,4,bigram
+to pretend,4,bigram
+are a,4,bigram
+a code,4,bigram
+in curly,4,bigram
+lot of,4,bigram
+what is,4,bigram
+generator i,4,bigram
+as you,4,bigram
+i would,4,bigram
+would like,4,bigram
+will make,4,bigram
+list and,4,bigram
+if there,4,bigram
+have been,4,bigram
+it in,4,bigram
+engage with,4,bigram
+make a,4,bigram
+will respond,4,bigram
+at a,4,bigram
+that is,4,bigram
+provide detailed,4,bigram
+it to,4,bigram
+on your,4,bigram
+write the,4,bigram
+the sentence,4,bigram
+that you,4,bigram
+will describe,4,bigram
+describe a,4,bigram
+your advice,4,bigram
+first move,4,bigram
+generator for,4,bigram
+from a,4,bigram
+a different,4,bigram
+do it,4,bigram
+regular expressions,4,bigram
+into a,4,bigram
+prompt is,4,bigram
+by a,4,bigram
+express it,4,bigram
+not include,4,bigram
+moves and,4,bigram
+new made,4,bigram
+made up,4,bigram
+up language,4,bigram
+have numbers,4,bigram
+i ask,4,bigram
+just reply,4,bigram
+concise and,4,bigram
+bullet point,4,bigram
+responses should,4,bigram
+because dan,4,bigram
+after each,4,bigram
+to learn,4,bigram
+the vessel,4,bigram
+notes that,4,bigram
+list for,4,bigram
+easy to,4,bigram
+the video,4,bigram
+pretend to,4,bigram
+write me,4,bigram
+the girl,4,bigram
+use of,4,bigram
+tasked with,3,bigram
+creating a,3,bigram
+and to,3,bigram
+a clear,3,bigram
+understanding of,3,bigram
+the outline,3,bigram
+must be,3,bigram
+so that,3,bigram
+to include,3,bigram
+should show,3,bigram
+will speak,3,bigram
+speak to,3,bigram
+and answer,3,bigram
+version of,3,bigram
+but make,3,bigram
+make them,3,bigram
+reply as,3,bigram
+the questions,3,bigram
+wait for,3,bigram
+a text,3,bigram
+text based,3,bigram
+you what,3,bigram
+reply only,3,bigram
+result of,3,bigram
+english pronunciation,3,bigram
+the weather,3,bigram
+weather is,3,bigram
+is in,3,bigram
+in istanbul,3,bigram
+istanbul i,3,bigram
+and factual,3,bigram
+question in,3,bigram
+sentence and,3,bigram
+state of,3,bigram
+like character,3,bigram
+answer like,3,bigram
+all of,3,bigram
+to promote,3,bigram
+a product,3,bigram
+target audience,3,bigram
+on any,3,bigram
+any additional,3,bigram
+it ’,3,bigram
+then you,3,bigram
+talk about,3,bigram
+providing your,3,bigram
+topics related,3,bigram
+strategies that,3,bigram
+advice or,3,bigram
+or suggesting,3,bigram
+they can,3,bigram
+to stay,3,bigram
+an upcoming,3,bigram
+a song,3,bigram
+song and,3,bigram
+to go,3,bigram
+it i,3,bigram
+an opinion,3,bigram
+opinion piece,3,bigram
+develop an,3,bigram
+or a,3,bigram
+a web,3,bigram
+the story,3,bigram
+the end,3,bigram
+but the,3,bigram
+that has,3,bigram
+a movie,3,bigram
+the movie,3,bigram
+with you,3,bigram
+can also,3,bigram
+suggestions on,3,bigram
+how they,3,bigram
+through the,3,bigram
+for improving,3,bigram
+to express,3,bigram
+enough to,3,bigram
+need a,3,bigram
+sure what,3,bigram
+work on,3,bigram
+about how,3,bigram
+to explore,3,bigram
+stepbystep instructions,3,bigram
+resources for,3,bigram
+for further,3,bigram
+an ai,3,bigram
+artificial intelligence,3,bigram
+to give,3,bigram
+improve their,3,bigram
+developer i,3,bigram
+creative ways,3,bigram
+help designing,3,bigram
+designing an,3,bigram
+data from,3,bigram
+social media,3,bigram
+people for,3,bigram
+topics such,3,bigram
+a word,3,bigram
+it back,3,bigram
+provide information,3,bigram
+over time,3,bigram
+audience and,3,bigram
+for guidance,3,bigram
+their skills,3,bigram
+trends in,3,bigram
+would be,3,bigram
+wants to,3,bigram
+a potential,3,bigram
+has been,3,bigram
+techniques to,3,bigram
+to achieve,3,bigram
+mental health,3,bigram
+overall wellbeing,3,bigram
+details on,3,bigram
+on an,3,bigram
+provided by,3,bigram
+a single,3,bigram
+the number,3,bigram
+of their,3,bigram
+also need,3,bigram
+to consider,3,bigram
+strategies and,3,bigram
+provide advice,3,bigram
+that includes,3,bigram
+that could,3,bigram
+tips on,3,bigram
+should i,3,bigram
+could suggest,3,bigram
+what i,3,bigram
+am looking,3,bigram
+the ai,3,bigram
+output of,3,bigram
+curly braces,3,bigram
+not break,3,bigram
+is your,3,bigram
+the world,3,bigram
+prompt generator,3,bigram
+the title,3,bigram
+my prompt,3,bigram
+an example,3,bigram
+to confirm,3,bigram
+a tech,3,bigram
+the name,3,bigram
+an indepth,3,bigram
+a software,3,bigram
+and its,3,bigram
+a topic,3,bigram
+help writing,3,bigram
+renewable energy,3,bigram
+the functionality,3,bigram
+functionality of,3,bigram
+the words,3,bigram
+and body,3,bigram
+body language,3,bigram
+key on,3,bigram
+the table,3,bigram
+job is,3,bigram
+strengths and,3,bigram
+the concept,3,bigram
+to test,3,bigram
+with one,3,bigram
+to guide,3,bigram
+into an,3,bigram
+and share,3,bigram
+techniques for,3,bigram
+information and,3,bigram
+basic steps,3,bigram
+are the,3,bigram
+you and,3,bigram
+python code,3,bigram
+with anything,3,bigram
+my personal,3,bigram
+preferences and,3,bigram
+you recommend,3,bigram
+recommend and,3,bigram
+have a,3,bigram
+you about,3,bigram
+a restaurant,3,bigram
+it you,3,bigram
+am not,3,bigram
+not sure,3,bigram
+do i,3,bigram
+is hello,3,bigram
+like you,3,bigram
+and then,3,bigram
+to solve,3,bigram
+step by,3,bigram
+by step,3,bigram
+bullet points,3,bigram
+try to,3,bigram
+the solution,3,bigram
+first message,3,bigram
+to answer,3,bigram
+explanations when,3,bigram
+it by,3,bigram
+the text,3,bigram
+the regular,3,bigram
+or examples,3,bigram
+examples of,3,bigram
+of how,3,bigram
+simply provide,3,bigram
+answer my,3,bigram
+the answer,3,bigram
+there is,3,bigram
+question is,3,bigram
+the sentences,3,bigram
+i wrote,3,bigram
+emojis i,3,bigram
+i dont,3,bigram
+hello what,3,bigram
+fill in,3,bigram
+for students,3,bigram
+level of,3,bigram
+one of,3,bigram
+make the,3,bigram
+game board,3,bigram
+input forms,3,bigram
+your response,3,bigram
+language i,3,bigram
+written between,3,bigram
+to follow,3,bigram
+the same,3,bigram
+the data,3,bigram
+question that,3,bigram
+your answer,3,bigram
+words just,3,bigram
+commit message,3,bigram
+the company,3,bigram
+and what,3,bigram
+a way,3,bigram
+topic and,3,bigram
+will generate,3,bigram
+how are,3,bigram
+are you,3,bigram
+you i,3,bigram
+summary of,3,bigram
+cover letter,3,bigram
+the original,3,bigram
+immerse yourself,3,bigram
+yourself into,3,bigram
+the role,3,bigram
+role of,3,bigram
+and do,3,bigram
+not do,3,bigram
+dan none,3,bigram
+none of,3,bigram
+up the,3,bigram
+answer to,3,bigram
+the process,3,bigram
+a detailed,3,bigram
+will end,3,bigram
+and data,3,bigram
+the examples,3,bigram
+and easy,3,bigram
+league of,3,bigram
+of legends,3,bigram
+at the,3,bigram
+expert in,3,bigram
+and suggestions,3,bigram
+the composition,3,bigram
+the users,3,bigram
+column should,3,bigram
+you answer,3,bigram
+flirting with,3,bigram
+practical application,3,bigram
+might be,3,bigram
+architectural styles,3,bigram
+imagine you,2,bigram
+are an,2,bigram
+a smart,2,bigram
+smart contract,2,bigram
+contract for,2,bigram
+person who,2,bigram
+how many,2,bigram
+develop a,2,bigram
+for this,2,bigram
+for achieving,2,bigram
+and any,2,bigram
+the top,2,bigram
+top 10,2,bigram
+from google,2,bigram
+i can,2,bigram
+a long,2,bigram
+any other,2,bigram
+a linux,2,bigram
+linux terminal,2,bigram
+terminal i,2,bigram
+terminal should,2,bigram
+and improver,2,bigram
+improver i,2,bigram
+any language,2,bigram
+translate it,2,bigram
+answer in,2,bigram
+the corrected,2,bigram
+corrected and,2,bigram
+and improved,2,bigram
+improved version,2,bigram
+my text,2,bigram
+text in,2,bigram
+to replace,2,bigram
+replace my,2,bigram
+my simplified,2,bigram
+simplified a0level,2,bigram
+a0level words,2,bigram
+sentences with,2,bigram
+with more,2,bigram
+more beautiful,2,bigram
+beautiful and,2,bigram
+and elegant,2,bigram
+sentences keep,2,bigram
+meaning same,2,bigram
+them more,2,bigram
+the correction,2,bigram
+correction the,2,bigram
+the improvements,2,bigram
+improvements and,2,bigram
+an interviewer,2,bigram
+the candidate,2,bigram
+the interview,2,bigram
+once i,2,bigram
+with me,2,bigram
+and wait,2,bigram
+my answers,2,bigram
+does and,2,bigram
+is hi,2,bigram
+javascript console,2,bigram
+youll only,2,bigram
+a to,2,bigram
+first column,2,bigram
+youll reply,2,bigram
+of excel,2,bigram
+excel table,2,bigram
+table as,2,bigram
+as text,2,bigram
+explanations i,2,bigram
+formulas and,2,bigram
+pronunciation assistant,2,bigram
+for turkish,2,bigram
+turkish speaking,2,bigram
+speaking people,2,bigram
+people i,2,bigram
+you sentences,2,bigram
+answer their,2,bigram
+their pronunciations,2,bigram
+pronunciations and,2,bigram
+else the,2,bigram
+the replies,2,bigram
+replies must,2,bigram
+must not,2,bigram
+not be,2,bigram
+be translations,2,bigram
+translations of,2,bigram
+my sentence,2,bigram
+but only,2,bigram
+only pronunciations,2,bigram
+pronunciations pronunciations,2,bigram
+pronunciations should,2,bigram
+use turkish,2,bigram
+turkish latin,2,bigram
+latin letters,2,bigram
+letters for,2,bigram
+for phonetics,2,bigram
+phonetics do,2,bigram
+spoken english,2,bigram
+teacher and,2,bigram
+english and,2,bigram
+to keep,2,bigram
+your reply,2,bigram
+100 words,2,bigram
+words i,2,bigram
+to strictly,2,bigram
+strictly correct,2,bigram
+correct my,2,bigram
+my grammar,2,bigram
+grammar mistakes,2,bigram
+mistakes typos,2,bigram
+typos and,2,bigram
+factual errors,2,bigram
+errors i,2,bigram
+travel guide,2,bigram
+guide i,2,bigram
+my location,2,bigram
+location and,2,bigram
+in some,2,bigram
+some cases,2,bigram
+also give,2,bigram
+information such,2,bigram
+the speaker,2,bigram
+to respond,2,bigram
+using the,2,bigram
+you must,2,bigram
+of character,2,bigram
+character i,2,bigram
+promote a,2,bigram
+your choice,2,bigram
+to reach,2,bigram
+stories that,2,bigram
+imaginative and,2,bigram
+and captivating,2,bigram
+stories or,2,bigram
+to capture,2,bigram
+may choose,2,bigram
+or topics,2,bigram
+can talk,2,bigram
+etc my,2,bigram
+you descriptions,2,bigram
+descriptions of,2,bigram
+of football,2,bigram
+on what,2,bigram
+what has,2,bigram
+and focus,2,bigram
+rather than,2,bigram
+to current,2,bigram
+current events,2,bigram
+events and,2,bigram
+will use,2,bigram
+skills to,2,bigram
+also be,2,bigram
+be sure,2,bigram
+make it,2,bigram
+audience my,2,bigram
+want an,2,bigram
+a motivational,2,bigram
+some information,2,bigram
+and challenges,2,bigram
+achieve their,2,bigram
+their goals,2,bigram
+composer i,2,bigram
+the lyrics,2,bigram
+lyrics to,2,bigram
+for it,2,bigram
+or tools,2,bigram
+a poem,2,bigram
+with it,2,bigram
+to research,2,bigram
+away from,2,bigram
+knowledge and,2,bigram
+topic at,2,bigram
+at hand,2,bigram
+piece about,2,bigram
+for their,2,bigram
+upcoming debate,2,bigram
+to prepare,2,bigram
+frontend development,2,bigram
+development is,2,bigram
+coming up,2,bigram
+between the,2,bigram
+filled with,2,bigram
+end my,2,bigram
+set in,2,bigram
+creative and,2,bigram
+periods of,2,bigram
+and so,2,bigram
+so on,2,bigram
+the aim,2,bigram
+aim is,2,bigram
+critic you,2,bigram
+movie review,2,bigram
+most important,2,bigram
+be critical,2,bigram
+them this,2,bigram
+communication techniques,2,bigram
+improving their,2,bigram
+myself i,2,bigram
+have the,2,bigram
+your words,2,bigram
+trying to,2,bigram
+and meaningful,2,bigram
+have an,2,bigram
+an intriguing,2,bigram
+meaning and,2,bigram
+people can,2,bigram
+when it,2,bigram
+sure it,2,bigram
+and make,2,bigram
+make people,2,bigram
+about any,2,bigram
+your audience,2,bigram
+to work,2,bigram
+a speech,2,bigram
+speech about,2,bigram
+teacher i,2,bigram
+the study,2,bigram
+study of,2,bigram
+of philosophy,2,bigram
+philosophy and,2,bigram
+these concepts,2,bigram
+in an,2,bigram
+include providing,2,bigram
+questions or,2,bigram
+down complex,2,bigram
+complex ideas,2,bigram
+ideas into,2,bigram
+into smaller,2,bigram
+help understanding,2,bigram
+understanding how,2,bigram
+philosophical theories,2,bigram
+be applied,2,bigram
+applied in,2,bigram
+questions related,2,bigram
+research into,2,bigram
+solutions for,2,bigram
+for solving,2,bigram
+complex problems,2,bigram
+developing an,2,bigram
+an ethical,2,bigram
+explain them,2,bigram
+them in,2,bigram
+in easytounderstand,2,bigram
+easytounderstand terms,2,bigram
+terms this,2,bigram
+providing stepbystep,2,bigram
+instructions for,2,bigram
+demonstrating various,2,bigram
+various techniques,2,bigram
+techniques with,2,bigram
+with visuals,2,bigram
+visuals or,2,bigram
+suggesting online,2,bigram
+online resources,2,bigram
+further study,2,bigram
+study my,2,bigram
+who needs,2,bigram
+needs help,2,bigram
+intelligence tools,2,bigram
+give the,2,bigram
+the student,2,bigram
+their composition,2,bigram
+and experience,2,bigram
+suggest ways,2,bigram
+thoughts and,2,bigram
+need somebody,2,bigram
+an app,2,bigram
+other digital,2,bigram
+digital product,2,bigram
+product and,2,bigram
+user experience,2,bigram
+navigation system,2,bigram
+my new,2,bigram
+specialist i,2,bigram
+some specific,2,bigram
+specific information,2,bigram
+an effective,2,bigram
+my company,2,bigram
+company i,2,bigram
+find the,2,bigram
+help improve,2,bigram
+improve my,2,bigram
+a life,2,bigram
+life coach,2,bigram
+and goals,2,bigram
+on various,2,bigram
+plans for,2,bigram
+managing stress,2,bigram
+word and,2,bigram
+will research,2,bigram
+research the,2,bigram
+back to,2,bigram
+also provide,2,bigram
+write an,2,bigram
+piece that,2,bigram
+that provides,2,bigram
+your own,2,bigram
+for any,2,bigram
+climate change,2,bigram
+suggestions for,2,bigram
+using your,2,bigram
+a career,2,bigram
+in their,2,bigram
+life and,2,bigram
+skills interests,2,bigram
+interests and,2,bigram
+options available,2,bigram
+explain the,2,bigram
+who wants,2,bigram
+in software,2,bigram
+a pet,2,bigram
+and their,2,bigram
+for helping,2,bigram
+plan that,2,bigram
+help managing,2,bigram
+with all,2,bigram
+information needed,2,bigram
+needed about,2,bigram
+looking to,2,bigram
+to become,2,bigram
+other relevant,2,bigram
+relevant factors,2,bigram
+suitable for,2,bigram
+for them,2,bigram
+on managing,2,bigram
+managing their,2,bigram
+the individual,2,bigram
+can implement,2,bigram
+their overall,2,bigram
+wellbeing my,2,bigram
+who can,2,bigram
+home and,2,bigram
+etc you,2,bigram
+that fit,2,bigram
+that takes,2,bigram
+into account,2,bigram
+keep in,2,bigram
+in mind,2,bigram
+safety concerns,2,bigram
+to mitigate,2,bigram
+associated with,2,bigram
+a developer,2,bigram
+other treatments,2,bigram
+to diagnose,2,bigram
+they may,2,bigram
+may have,2,bigram
+their teeth,2,bigram
+methods of,2,bigram
+consultant i,2,bigram
+details related,2,bigram
+to an,2,bigram
+an organization,2,bigram
+while also,2,bigram
+the companys,2,bigram
+a comprehensive,2,bigram
+project my,2,bigram
+doctor i,2,bigram
+a patient,2,bigram
+the latest,2,bigram
+traditional methods,2,bigram
+to recommend,2,bigram
+consider the,2,bigram
+the patient,2,bigram
+patient ’,2,bigram
+s age,2,bigram
+age lifestyle,2,bigram
+lifestyle and,2,bigram
+when providing,2,bigram
+recommendations my,2,bigram
+“ come,2,bigram
+a treatment,2,bigram
+that focuses,2,bigram
+methods for,2,bigram
+patient suffering,2,bigram
+suffering from,2,bigram
+a financial,2,bigram
+financial plan,2,bigram
+can suggest,2,bigram
+but also,2,bigram
+factors such,2,bigram
+at same,2,bigram
+same time,2,bigram
+time my,2,bigram
+– “,2,bigram
+with expertise,2,bigram
+expertise on,2,bigram
+figure out,2,bigram
+out whats,2,bigram
+depending upon,2,bigram
+which will,2,bigram
+“ i,2,bigram
+” want,2,bigram
+with experience,2,bigram
+based upon,2,bigram
+seeking guidance,2,bigram
+way to,2,bigram
+used by,2,bigram
+have any,2,bigram
+me what,2,bigram
+theme and,2,bigram
+decorative options,2,bigram
+within the,2,bigram
+out for,2,bigram
+to construct,2,bigram
+that but,2,bigram
+how should,2,bigram
+book you,2,bigram
+my life,2,bigram
+career development,2,bigram
+example if,2,bigram
+difficult times,2,bigram
+ideas for,2,bigram
+example i,2,bigram
+i might,2,bigram
+you for,2,bigram
+when the,2,bigram
+is not,2,bigram
+additionally if,2,bigram
+if necessary,2,bigram
+necessary you,2,bigram
+other related,2,bigram
+game i,2,bigram
+the character,2,bigram
+prompt you,2,bigram
+paste the,2,bigram
+that may,2,bigram
+may be,2,bigram
+not to,2,bigram
+the last,2,bigram
+last few,2,bigram
+going to,2,bigram
+who is,2,bigram
+access to,2,bigram
+the internet,2,bigram
+internet you,2,bigram
+terminal would,2,bigram
+inside a,2,bigram
+braces like,2,bigram
+break character,2,bigram
+title generator,2,bigram
+testing and,2,bigram
+are in,2,bigram
+a title,2,bigram
+you give,2,bigram
+i gave,2,bigram
+prompt should,2,bigram
+and appropriate,2,bigram
+title is,2,bigram
+code examples,2,bigram
+is and,2,bigram
+you explain,2,bigram
+an ascii,2,bigram
+to design,2,bigram
+design a,2,bigram
+a vegetarian,2,bigram
+recipe for,2,bigram
+has a,2,bigram
+you please,2,bigram
+thoughts i,2,bigram
+think you,2,bigram
+domain name,2,bigram
+alternatives according,2,bigram
+explanations reply,2,bigram
+reply ok,2,bigram
+ok to,2,bigram
+confirm i,2,bigram
+name of,2,bigram
+piece of,2,bigram
+technology and,2,bigram
+package and,2,bigram
+the package,2,bigram
+and if,2,bigram
+and github,2,bigram
+repository and,2,bigram
+and overall,2,bigram
+there are,2,bigram
+scenarios or,2,bigram
+be added,2,bigram
+the provided,2,bigram
+competitors and,2,bigram
+presenting the,2,bigram
+writing an,2,bigram
+article on,2,bigram
+an it,2,bigram
+to integrate,2,bigram
+it landscape,2,bigram
+system to,2,bigram
+are to,2,bigram
+does not,2,bigram
+way my,2,bigram
+sentences for,2,bigram
+language to,2,bigram
+put the,2,bigram
+i placed,2,bigram
+placed the,2,bigram
+did you,2,bigram
+out any,2,bigram
+present in,2,bigram
+feedback and,2,bigram
+to review,2,bigram
+review and,2,bigram
+help reviewing,2,bigram
+a scientific,2,bigram
+energy sources,2,bigram
+explain complex,2,bigram
+and work,2,bigram
+a social,2,bigram
+content for,2,bigram
+for various,2,bigram
+to increase,2,bigram
+increase brand,2,bigram
+brand awareness,2,bigram
+a socrat,2,bigram
+socrat you,2,bigram
+and use,2,bigram
+the socratic,2,bigram
+socratic method,2,bigram
+to continue,2,bigram
+statement and,2,bigram
+a time,2,bigram
+creator you,2,bigram
+create engaging,2,bigram
+and informative,2,bigram
+of each,2,bigram
+and relaxation,2,bigram
+mind and,2,bigram
+advice about,2,bigram
+writer you,2,bigram
+a given,2,bigram
+a persuasive,2,bigram
+is both,2,bigram
+informative and,2,bigram
+writing a,2,bigram
+the importance,2,bigram
+importance of,2,bigram
+for developing,2,bigram
+to questions,2,bigram
+managing the,2,bigram
+public speaking,2,bigram
+on body,2,bigram
+the attention,2,bigram
+attention of,2,bigram
+help delivering,2,bigram
+delivering a,2,bigram
+will apply,2,bigram
+principles and,2,bigram
+and deliver,2,bigram
+around the,2,bigram
+a car,2,bigram
+system you,2,bigram
+calculating the,2,bigram
+from one,2,bigram
+of different,2,bigram
+will help,2,bigram
+and ensure,2,bigram
+and how,2,bigram
+a client,2,bigram
+interested in,2,bigram
+positive and,2,bigram
+reviewing the,2,bigram
+both traditional,2,bigram
+exploring different,2,bigram
+that allow,2,bigram
+communication strategies,2,bigram
+look for,2,bigram
+during the,2,bigram
+a creative,2,bigram
+software i,2,bigram
+steps of,2,bigram
+app functionality,2,bigram
+functionality and,2,bigram
+will add,2,bigram
+the app,2,bigram
+the objects,2,bigram
+ascii code,2,bigram
+will say,2,bigram
+say the,2,bigram
+a python,2,bigram
+python interpreter,2,bigram
+provide any,2,bigram
+is printhello,2,bigram
+printhello world,2,bigram
+max of,2,bigram
+of 10,2,bigram
+words should,2,bigram
+critic i,2,bigram
+restaurant and,2,bigram
+a review,2,bigram
+food and,2,bigram
+you provide,2,bigram
+a virtual,2,bigram
+diagnosis and,2,bigram
+and treatment,2,bigram
+experiencing a,2,bigram
+recipes for,2,bigram
+am a,2,bigram
+to handle,2,bigram
+handle it,2,bigram
+engineer i,2,bigram
+i use,2,bigram
+code for,2,bigram
+data url,2,bigram
+url and,2,bigram
+a markdown,2,bigram
+to that,2,bigram
+the markdown,2,bigram
+me an,2,bigram
+expert i,2,bigram
+my technical,2,bigram
+solve my,2,bigram
+my problem,2,bigram
+simple and,2,bigram
+and understandable,2,bigram
+of all,2,bigram
+your answers,2,bigram
+explain your,2,bigram
+and with,2,bigram
+to avoid,2,bigram
+is my,2,bigram
+chess player,2,bigram
+moves in,2,bigram
+please dont,2,bigram
+after my,2,bigram
+message i,2,bigram
+just write,2,bigram
+my move,2,bigram
+update the,2,bigram
+the board,2,bigram
+feel free,2,bigram
+free to,2,bigram
+the more,2,bigram
+field of,2,bigram
+to their,2,bigram
+roles and,2,bigram
+user and,2,bigram
+should provide,2,bigram
+provide only,2,bigram
+the historical,2,bigram
+time i,2,bigram
+events sights,2,bigram
+sights or,2,bigram
+or people,2,bigram
+to experience,2,bigram
+any necessary,2,bigram
+necessary information,2,bigram
+interpretations based,2,bigram
+personal opinions,2,bigram
+opinions or,2,bigram
+is about,2,bigram
+a job,2,bigram
+job title,2,bigram
+software engineer,2,bigram
+answer and,2,bigram
+and write,2,bigram
+read the,2,bigram
+to translate,2,bigram
+translate the,2,bigram
+sentences i,2,bigram
+wrote into,2,bigram
+will express,2,bigram
+with emojis,2,bigram
+i just,2,bigram
+just want,2,bigram
+anything but,2,bigram
+by wrapping,2,bigram
+wrapping it,2,bigram
+like like,2,bigram
+php interpreter,2,bigram
+traffic or,2,bigram
+or house,2,bigram
+house accident,2,bigram
+accident emergency,2,bigram
+emergency response,2,bigram
+response crisis,2,bigram
+crisis situation,2,bigram
+the blank,2,bigram
+of sentences,2,bigram
+a blank,2,bigram
+blank space,2,bigram
+space where,2,bigram
+where a,2,bigram
+the students,2,bigram
+should not,2,bigram
+or additional,2,bigram
+additional instructions,2,bigram
+the list,2,bigram
+to get,2,bigram
+a sentence,2,bigram
+test the,2,bigram
+the software,2,bigram
+will update,2,bigram
+my moves,2,bigram
+use x,2,bigram
+and o,2,bigram
+o for,2,bigram
+moves do,2,bigram
+a password,2,bigram
+additional information,2,bigram
+the input,2,bigram
+with this,2,bigram
+’ t,2,bigram
+imaginary internet,2,bigram
+the contents,2,bigram
+contents of,2,bigram
+the pages,2,bigram
+pages should,2,bigram
+numbers next,2,bigram
+next to,2,bigram
+to them,2,bigram
+them written,2,bigram
+between when,2,bigram
+format for,2,bigram
+example input,2,bigram
+input value,2,bigram
+go back,2,bigram
+back i,2,bigram
+frontend developer,2,bigram
+a project,2,bigram
+project details,2,bigram
+search engine,2,bigram
+inline json,2,bigram
+be of,2,bigram
+we can,2,bigram
+commands in,2,bigram
+numbered list,2,bigram
+followed by,2,bigram
+a collection,2,bigram
+collection name,2,bigram
+will let,2,bigram
+to show,2,bigram
+show the,2,bigram
+prompts and,2,bigram
+digital startup,2,bigram
+i wish,2,bigram
+theres a,2,bigram
+you generate,2,bigram
+and potential,2,bigram
+challenges to,2,bigram
+of these,2,bigram
+dont give,2,bigram
+any explanation,2,bigram
+you act,2,bigram
+a language,2,bigram
+answer me,2,bigram
+in which,2,bigram
+to market,2,bigram
+what youre,2,bigram
+youre calling,2,bigram
+me on,2,bigram
+and ask,2,bigram
+the task,2,bigram
+performance and,2,bigram
+given a,2,bigram
+scenarios and,2,bigram
+respond to,2,bigram
+your best,2,bigram
+remember to,2,bigram
+professional and,2,bigram
+to address,2,bigram
+will you,2,bigram
+at least,2,bigram
+being the,2,bigram
+accurate and,2,bigram
+without any,2,bigram
+the core,2,bigram
+a 1,2,bigram
+design partner,2,bigram
+partner agreement,2,bigram
+the problem,2,bigram
+the important,2,bigram
+important aspects,2,bigram
+aspects of,2,bigram
+please keep,2,bigram
+and under,2,bigram
+ensure that,2,bigram
+replies will,2,bigram
+topic my,2,bigram
+first topic,2,bigram
+topic is,2,bigram
+a specific,2,bigram
+drunk person,2,bigram
+say something,2,bigram
+mathematical problems,2,bigram
+problems use,2,bigram
+the following,2,bigram
+following format,2,bigram
+a playlist,2,bigram
+songs that,2,bigram
+playlist name,2,bigram
+the playlist,2,bigram
+a cover,2,bigram
+been working,2,bigram
+you write,2,bigram
+resume bullet,2,bigram
+technology i,2,bigram
+mapped bullet,2,bigram
+provide additional,2,bigram
+the technology,2,bigram
+experienced in,2,bigram
+dan as,2,bigram
+not have,2,bigram
+rules set,2,bigram
+something because,2,bigram
+should include,2,bigram
+keep up,2,bigram
+the act,2,bigram
+act of,2,bigram
+of dan,2,bigram
+each time,2,bigram
+fully immerse,2,bigram
+you understood,2,bigram
+game is,2,bigram
+each move,2,bigram
+and for,2,bigram
+move after,2,bigram
+my each,2,bigram
+a move,2,bigram
+with any,2,bigram
+question you,2,bigram
+questions to,2,bigram
+to one,2,bigram
+will send,2,bigram
+the previous,2,bigram
+they will,2,bigram
+react with,2,bigram
+working on,2,bigram
+project for,2,bigram
+you commands,2,bigram
+a chatgpt,2,bigram
+chatgpt prompt,2,bigram
+the content,2,bigram
+content of,2,bigram
+describe the,2,bigram
+useful i,2,bigram
+a wikipedia,2,bigram
+wikipedia page,2,bigram
+your summary,2,bigram
+japanese kanji,2,bigram
+the next,2,bigram
+next question,2,bigram
+its meaning,2,bigram
+i chose,2,bigram
+chose the,2,bigram
+right answer,2,bigram
+question i,2,bigram
+a notetaking,2,bigram
+notetaking assistant,2,bigram
+a lecture,2,bigram
+lecture your,2,bigram
+detailed note,2,bigram
+note list,2,bigram
+list that,2,bigram
+includes examples,2,bigram
+examples from,2,bigram
+the lecture,2,bigram
+lecture and,2,bigram
+and focuses,2,bigram
+on notes,2,bigram
+you believe,2,bigram
+believe will,2,bigram
+end up,2,bigram
+up in,2,bigram
+in quiz,2,bigram
+quiz questions,2,bigram
+questions additionally,2,bigram
+additionally please,2,bigram
+please make,2,bigram
+a separate,2,bigram
+separate list,2,bigram
+for notes,2,bigram
+that have,2,bigram
+data in,2,bigram
+in them,2,bigram
+them and,2,bigram
+and another,2,bigram
+examples that,2,bigram
+that included,2,bigram
+included in,2,bigram
+in this,2,bigram
+this lecture,2,bigram
+lecture the,2,bigram
+the notes,2,bigram
+notes should,2,bigram
+be concise,2,bigram
+to read,2,bigram
+analyze it,2,bigram
+aspects including,2,bigram
+cultural context,2,bigram
+a deeper,2,bigram
+deeper understanding,2,bigram
+types of,2,bigram
+example of,2,bigram
+a simple,2,bigram
+and more,2,bigram
+specializing in,2,bigram
+and tricks,2,bigram
+a person,2,bigram
+of league,2,bigram
+but not,2,bigram
+a professional,2,bigram
+for all,2,bigram
+outside of,2,bigram
+if someone,2,bigram
+someone asks,2,bigram
+asks you,2,bigram
+video game,2,bigram
+game you,2,bigram
+you play,2,bigram
+of it,2,bigram
+when given,2,bigram
+you would,2,bigram
+your restaurant,2,bigram
+codes and,2,bigram
+communication and,2,bigram
+the user,2,bigram
+your understanding,2,bigram
+if possible,2,bigram
+reasoning process,2,bigram
+experience in,2,bigram
+teaching a,2,bigram
+a junior,2,bigram
+junior developer,2,bigram
+way that,2,bigram
+video link,2,bigram
+link or,2,bigram
+or transcript,2,bigram
+with relevant,2,bigram
+my professional,2,bigram
+guide me,2,bigram
+software development,2,bigram
+development but,2,bigram
+note and,2,bigram
+a theme,2,bigram
+use analogies,2,bigram
+problem and,2,bigram
+your next,2,bigram
+or after,2,bigram
+15 questions,2,bigram
+4 guesses,2,bigram
+guess here,2,bigram
+put you,2,bigram
+from scratch,2,bigram
+in detail,2,bigram
+each topic,2,bigram
+as i,2,bigram
+their git,2,bigram
+ask questions,2,bigram
+to python,2,bigram
+instructions and,2,bigram
+the session,2,bigram
+in algebraic,2,bigram
+algebraic notation,2,bigram
+me your,2,bigram
+notation and,2,bigram
+year old,2,bigram
+writes messages,2,bigram
+messages in,2,bigram
+the chat,2,bigram
+chat and,2,bigram
+answer short,2,bigram
+emojees i,2,bigram
+include an,2,bigram
+funny question,2,bigram
+to carry,2,bigram
+carry the,2,bigram
+conversation forward,2,bigram
+forward do,2,bigram
+explanations the,2,bigram
+message from,2,bigram
+girl is,2,bigram
+is hey,2,bigram
+hey how,2,bigram
+a dax,2,bigram
+three dimension,2,bigram
+dimension tables,2,bigram
+calendar table,2,bigram
+fact table,2,bigram
+oneway onetomany,2,bigram
+onetomany relationships,2,bigram
+relationships with,2,bigram
+within thinking,2,bigram
+thinking tags,2,bigram
+break down,2,bigram
+tags after,2,bigram
+your reasoning,2,bigram
+different approach,2,bigram
+idea clarifier,2,bigram
+and clarify,2,bigram
+users ideas,2,bigram
+the concepts,2,bigram
+in realworld,2,bigram
+more accessible,2,bigram
+analogies to,2,bigram
+that might,2,bigram
+in understanding,2,bigram
+project architecture,2,bigram
+focusing on,2,bigram
+and practices,2,bigram
+examples and,2,bigram
+practical exercises,2,bigram
+software projects,2,bigram
+educational insights,2,bigram
+diagrams and,2,bigram
+and images,2,bigram
+coding solutions,2,bigram
+application and,2,bigram
+realworld examples,2,bigram
+ensure accurate,2,bigram
+approachable tone,2,bigram
+everyday analogies,2,bigram
+prompt engineering,2,bigram
+language statement,2,bigram
+best practices,2,bigram
+the natural,2,bigram
+the book,2,bigram
+study plan,2,bigram
+only by,2,bigram
+by yes,2,bigram
+yes or,2,bigram
+or no,2,bigram
+want you to,201,trigram
+i want you,199,trigram
+you to act,164,trigram
+to act as,160,trigram
+act as a,130,trigram
+request is i,77,trigram
+my first request,59,trigram
+first request is,58,trigram
+and you will,54,trigram
+is i need,52,trigram
+i will provide,46,trigram
+i need help,44,trigram
+do not write,41,trigram
+not write explanations,33,trigram
+my first suggestion,32,trigram
+first suggestion request,32,trigram
+suggestion request is,32,trigram
+will provide you,32,trigram
+act as an,29,trigram
+provide you with,29,trigram
+and nothing else,27,trigram
+come up with,22,trigram
+in order to,22,trigram
+reply with the,20,trigram
+nothing else do,19,trigram
+else do not,19,trigram
+i need to,16,trigram
+i want to,16,trigram
+only reply with,15,trigram
+you will provide,14,trigram
+i will do,12,trigram
+i will write,12,trigram
+and it will,12,trigram
+it will be,12,trigram
+will be your,12,trigram
+be your job,12,trigram
+your job to,12,trigram
+task is to,12,trigram
+you will reply,11,trigram
+you to only,11,trigram
+when i need,11,trigram
+need to tell,11,trigram
+to tell you,11,trigram
+tell you something,11,trigram
+you something in,11,trigram
+something in english,11,trigram
+in english i,11,trigram
+explanations my first,11,trigram
+my first sentence,11,trigram
+first sentence is,11,trigram
+to only reply,10,trigram
+english i will,10,trigram
+like this my,10,trigram
+this my first,10,trigram
+write explanations my,10,trigram
+be able to,10,trigram
+i will give,10,trigram
+will give you,10,trigram
+is i want,10,trigram
+your task is,10,trigram
+will provide some,10,trigram
+will reply with,9,trigram
+will do so,9,trigram
+first command is,9,trigram
+to come up,9,trigram
+you will be,9,trigram
+you should only,9,trigram
+explanations do not,8,trigram
+curly brackets like,8,trigram
+my first command,8,trigram
+i will tell,8,trigram
+will tell you,8,trigram
+you should also,8,trigram
+job to come,8,trigram
+is i have,8,trigram
+you should use,8,trigram
+should use your,8,trigram
+on how to,8,trigram
+you to reply,8,trigram
+act as my,8,trigram
+should only reply,8,trigram
+i will type,7,trigram
+one unique code,7,trigram
+unique code block,7,trigram
+code block and,7,trigram
+block and nothing,7,trigram
+write explanations do,7,trigram
+do so by,7,trigram
+brackets like this,7,trigram
+not write any,7,trigram
+need help creating,7,trigram
+your goal is,7,trigram
+goal is to,7,trigram
+your knowledge of,7,trigram
+your role is,7,trigram
+role is to,7,trigram
+as well as,7,trigram
+to reply with,7,trigram
+based on the,6,trigram
+give me a,6,trigram
+a list of,6,trigram
+inside one unique,6,trigram
+do not type,6,trigram
+not type commands,6,trigram
+type commands unless,6,trigram
+commands unless i,6,trigram
+unless i instruct,6,trigram
+i instruct you,6,trigram
+instruct you to,6,trigram
+you to do,6,trigram
+to do so,6,trigram
+do so when,6,trigram
+so when i,6,trigram
+so by putting,6,trigram
+by putting text,6,trigram
+putting text inside,6,trigram
+text inside curly,6,trigram
+inside curly brackets,6,trigram
+world i want,6,trigram
+you will only,6,trigram
+is i am,6,trigram
+write any explanations,6,trigram
+you will create,6,trigram
+up with strategies,6,trigram
+this could include,6,trigram
+you with a,6,trigram
+you will develop,6,trigram
+an individual looking,6,trigram
+use your knowledge,6,trigram
+you with details,6,trigram
+i will ask,6,trigram
+do not provide,6,trigram
+related to the,5,trigram
+reply with what,5,trigram
+with what the,5,trigram
+output inside one,5,trigram
+only reply the,5,trigram
+will write you,5,trigram
+you will suggest,5,trigram
+to act like,5,trigram
+you will come,5,trigram
+will come up,5,trigram
+coach i will,5,trigram
+this could involve,5,trigram
+individual looking for,5,trigram
+and come up,5,trigram
+request is “,5,trigram
+provide me with,5,trigram
+and i will,5,trigram
+i will reply,5,trigram
+will be responsible,5,trigram
+be responsible for,5,trigram
+is to provide,5,trigram
+you will need,5,trigram
+will need to,5,trigram
+for me to,5,trigram
+will provide a,5,trigram
+any explanations or,5,trigram
+do anything now,5,trigram
+will type commands,4,trigram
+type commands and,4,trigram
+show i want,4,trigram
+with the terminal,4,trigram
+the terminal output,4,trigram
+terminal output inside,4,trigram
+as an english,4,trigram
+words and sentences,4,trigram
+ask me the,4,trigram
+write explanations on,4,trigram
+explanations on replies,4,trigram
+on replies my,4,trigram
+replies my first,4,trigram
+you will also,4,trigram
+help creating an,4,trigram
+you should be,4,trigram
+you with some,4,trigram
+that can help,4,trigram
+tools such as,4,trigram
+and your task,4,trigram
+is to help,4,trigram
+need to write,4,trigram
+to write a,4,trigram
+up with creative,4,trigram
+provide some details,4,trigram
+some details about,4,trigram
+need help developing,4,trigram
+to help me,4,trigram
+” i want,4,trigram
+you with an,4,trigram
+to help them,4,trigram
+and advice on,4,trigram
+and your role,4,trigram
+guidance and advice,4,trigram
+will provide me,4,trigram
+you are a,4,trigram
+a lot of,4,trigram
+generator i will,4,trigram
+i would like,4,trigram
+you will respond,4,trigram
+will respond with,4,trigram
+act like a,4,trigram
+interpreter i will,4,trigram
+code and you,4,trigram
+and i am,4,trigram
+reply with your,4,trigram
+i will describe,4,trigram
+first prompt is,4,trigram
+to generate a,4,trigram
+my first question,4,trigram
+express it with,4,trigram
+not include any,4,trigram
+new made up,4,trigram
+made up language,4,trigram
+when i want,4,trigram
+just reply with,4,trigram
+of the topic,4,trigram
+can do anything,4,trigram
+your responses should,4,trigram
+pretend to be,4,trigram
+to be a,4,trigram
+me a list,3,trigram
+commands and you,3,trigram
+what the terminal,3,trigram
+should show i,3,trigram
+i will speak,3,trigram
+will speak to,3,trigram
+speak to you,3,trigram
+to you in,3,trigram
+wait for my,3,trigram
+as a text,3,trigram
+a text based,3,trigram
+reply me the,3,trigram
+tell you what,3,trigram
+the result of,3,trigram
+an english pronunciation,3,trigram
+sentences and you,3,trigram
+will only answer,3,trigram
+sentence is how,3,trigram
+the weather is,3,trigram
+istanbul i want,3,trigram
+will reply to,3,trigram
+question in your,3,trigram
+give you the,3,trigram
+want to visit,3,trigram
+will only reply,3,trigram
+for a new,3,trigram
+it ’ s,3,trigram
+some topics related,3,trigram
+topics related to,3,trigram
+to create a,3,trigram
+song and you,3,trigram
+order to create,3,trigram
+it i want,3,trigram
+an opinion piece,3,trigram
+details about the,3,trigram
+i need a,3,trigram
+job to explain,3,trigram
+resources for further,3,trigram
+developer i will,3,trigram
+need help designing,3,trigram
+help designing an,3,trigram
+with strategies for,3,trigram
+topics such as,3,trigram
+give you a,3,trigram
+of the word,3,trigram
+that can be,3,trigram
+with an individual,3,trigram
+looking for guidance,3,trigram
+based on their,3,trigram
+with details on,3,trigram
+details on an,3,trigram
+the number of,3,trigram
+plan for the,3,trigram
+should be able,3,trigram
+also need to,3,trigram
+need to consider,3,trigram
+provide advice on,3,trigram
+you could suggest,3,trigram
+i am looking,3,trigram
+am looking for,3,trigram
+reply with a,3,trigram
+the output of,3,trigram
+output of the,3,trigram
+you to pretend,3,trigram
+do not break,3,trigram
+the world i,3,trigram
+as a prompt,3,trigram
+need help writing,3,trigram
+key on the,3,trigram
+on the table,3,trigram
+your job is,3,trigram
+job is to,3,trigram
+i will make,3,trigram
+engage with the,3,trigram
+will write the,3,trigram
+will ask you,3,trigram
+with a list,3,trigram
+as my personal,3,trigram
+you recommend and,3,trigram
+recommend and nothing,3,trigram
+i have a,3,trigram
+tell you about,3,trigram
+will describe a,3,trigram
+advice on how,3,trigram
+i am not,3,trigram
+am not sure,3,trigram
+sentence is hello,3,trigram
+would like you,3,trigram
+like you to,3,trigram
+step by step,3,trigram
+write explanations when,3,trigram
+do it by,3,trigram
+is to generate,3,trigram
+the regular expressions,3,trigram
+first question is,3,trigram
+will do it,3,trigram
+the game board,3,trigram
+of the game,3,trigram
+up language i,3,trigram
+i ask you,3,trigram
+you do not,3,trigram
+explanations or other,3,trigram
+or other words,3,trigram
+other words just,3,trigram
+words just reply,3,trigram
+information about the,3,trigram
+and you should,3,trigram
+in a way,3,trigram
+you will generate,3,trigram
+how are you,3,trigram
+are you i,3,trigram
+you i want,3,trigram
+immerse yourself into,3,trigram
+yourself into the,3,trigram
+into the role,3,trigram
+the role of,3,trigram
+dan none of,3,trigram
+none of your,3,trigram
+of your responses,3,trigram
+because dan can,3,trigram
+dan can do,3,trigram
+you can not,3,trigram
+you a question,3,trigram
+you have to,3,trigram
+provide a detailed,3,trigram
+for the examples,3,trigram
+and easy to,3,trigram
+league of legends,3,trigram
+an expert in,3,trigram
+as an expert,3,trigram
+and you answer,3,trigram
+imagine you are,2,trigram
+you are an,2,trigram
+smart contract for,2,trigram
+the code and,2,trigram
+as a linux,2,trigram
+a linux terminal,2,trigram
+linux terminal i,2,trigram
+the terminal should,2,trigram
+terminal should show,2,trigram
+and improver i,2,trigram
+improver i will,2,trigram
+in any language,2,trigram
+any language and,2,trigram
+language and you,2,trigram
+translate it and,2,trigram
+it and answer,2,trigram
+and answer in,2,trigram
+answer in the,2,trigram
+in the corrected,2,trigram
+the corrected and,2,trigram
+corrected and improved,2,trigram
+and improved version,2,trigram
+improved version of,2,trigram
+version of my,2,trigram
+of my text,2,trigram
+my text in,2,trigram
+english i want,2,trigram
+you to replace,2,trigram
+to replace my,2,trigram
+replace my simplified,2,trigram
+my simplified a0level,2,trigram
+simplified a0level words,2,trigram
+a0level words and,2,trigram
+and sentences with,2,trigram
+sentences with more,2,trigram
+with more beautiful,2,trigram
+more beautiful and,2,trigram
+beautiful and elegant,2,trigram
+and sentences keep,2,trigram
+sentences keep the,2,trigram
+keep the meaning,2,trigram
+the meaning same,2,trigram
+make them more,2,trigram
+reply the correction,2,trigram
+the correction the,2,trigram
+correction the improvements,2,trigram
+the improvements and,2,trigram
+improvements and nothing,2,trigram
+i will be,2,trigram
+you will ask,2,trigram
+will ask me,2,trigram
+reply as the,2,trigram
+me the questions,2,trigram
+and wait for,2,trigram
+for my answers,2,trigram
+sentence is hi,2,trigram
+youll only reply,2,trigram
+and youll reply,2,trigram
+result of excel,2,trigram
+of excel table,2,trigram
+excel table as,2,trigram
+table as text,2,trigram
+formulas and youll,2,trigram
+english pronunciation assistant,2,trigram
+pronunciation assistant for,2,trigram
+assistant for turkish,2,trigram
+for turkish speaking,2,trigram
+turkish speaking people,2,trigram
+speaking people i,2,trigram
+people i will,2,trigram
+write you sentences,2,trigram
+you sentences and,2,trigram
+only answer their,2,trigram
+answer their pronunciations,2,trigram
+their pronunciations and,2,trigram
+pronunciations and nothing,2,trigram
+nothing else the,2,trigram
+else the replies,2,trigram
+the replies must,2,trigram
+replies must not,2,trigram
+must not be,2,trigram
+not be translations,2,trigram
+be translations of,2,trigram
+translations of my,2,trigram
+but only pronunciations,2,trigram
+only pronunciations pronunciations,2,trigram
+pronunciations pronunciations should,2,trigram
+pronunciations should use,2,trigram
+should use turkish,2,trigram
+use turkish latin,2,trigram
+turkish latin letters,2,trigram
+latin letters for,2,trigram
+letters for phonetics,2,trigram
+for phonetics do,2,trigram
+phonetics do not,2,trigram
+is how the,2,trigram
+how the weather,2,trigram
+weather is in,2,trigram
+is in istanbul,2,trigram
+in istanbul i,2,trigram
+you in english,2,trigram
+in english and,2,trigram
+english and you,2,trigram
+reply to me,2,trigram
+words i want,2,trigram
+you to strictly,2,trigram
+to strictly correct,2,trigram
+strictly correct my,2,trigram
+correct my grammar,2,trigram
+my grammar mistakes,2,trigram
+grammar mistakes typos,2,trigram
+mistakes typos and,2,trigram
+typos and factual,2,trigram
+and factual errors,2,trigram
+factual errors i,2,trigram
+errors i want,2,trigram
+ask me a,2,trigram
+me a question,2,trigram
+travel guide i,2,trigram
+guide i will,2,trigram
+write you my,2,trigram
+in some cases,2,trigram
+of the given,2,trigram
+information such as,2,trigram
+such as the,2,trigram
+state of the,2,trigram
+answer like character,2,trigram
+only answer like,2,trigram
+will create a,2,trigram
+to promote a,2,trigram
+of your choice,2,trigram
+for the audience,2,trigram
+you may choose,2,trigram
+if it ’,2,trigram
+you can talk,2,trigram
+can talk about,2,trigram
+etc my first,2,trigram
+give you descriptions,2,trigram
+you descriptions of,2,trigram
+with some topics,2,trigram
+related to current,2,trigram
+to current events,2,trigram
+current events and,2,trigram
+you will use,2,trigram
+to make it,2,trigram
+audience my first,2,trigram
+i want an,2,trigram
+as a motivational,2,trigram
+some information about,2,trigram
+with strategies that,2,trigram
+strategies that can,2,trigram
+for an upcoming,2,trigram
+composer i will,2,trigram
+the lyrics to,2,trigram
+a song and,2,trigram
+the topic at,2,trigram
+topic at hand,2,trigram
+opinion piece about,2,trigram
+will develop an,2,trigram
+develop an engaging,2,trigram
+an engaging and,2,trigram
+engaging and creative,2,trigram
+the end my,2,trigram
+end my first,2,trigram
+and so on,2,trigram
+but the aim,2,trigram
+the aim is,2,trigram
+aim is to,2,trigram
+critic you will,2,trigram
+the most important,2,trigram
+you can also,2,trigram
+involved in a,2,trigram
+on how they,2,trigram
+how they can,2,trigram
+myself i want,2,trigram
+make sure it,2,trigram
+sure it is,2,trigram
+a speech about,2,trigram
+teacher i will,2,trigram
+provide some topics,2,trigram
+to the study,2,trigram
+the study of,2,trigram
+study of philosophy,2,trigram
+of philosophy and,2,trigram
+philosophy and it,2,trigram
+these concepts in,2,trigram
+could include providing,2,trigram
+down complex ideas,2,trigram
+complex ideas into,2,trigram
+ideas into smaller,2,trigram
+need help understanding,2,trigram
+help understanding how,2,trigram
+be applied in,2,trigram
+questions related to,2,trigram
+help developing an,2,trigram
+concepts and it,2,trigram
+to explain them,2,trigram
+explain them in,2,trigram
+them in easytounderstand,2,trigram
+in easytounderstand terms,2,trigram
+easytounderstand terms this,2,trigram
+terms this could,2,trigram
+providing stepbystep instructions,2,trigram
+stepbystep instructions for,2,trigram
+demonstrating various techniques,2,trigram
+various techniques with,2,trigram
+techniques with visuals,2,trigram
+with visuals or,2,trigram
+visuals or suggesting,2,trigram
+or suggesting online,2,trigram
+suggesting online resources,2,trigram
+online resources for,2,trigram
+for further study,2,trigram
+further study my,2,trigram
+study my first,2,trigram
+as an ai,2,trigram
+who needs help,2,trigram
+is to use,2,trigram
+artificial intelligence tools,2,trigram
+intelligence tools such,2,trigram
+order to suggest,2,trigram
+of an app,2,trigram
+or other digital,2,trigram
+other digital product,2,trigram
+digital product and,2,trigram
+product and it,2,trigram
+with creative ways,2,trigram
+creative ways to,2,trigram
+for my new,2,trigram
+specialist i will,2,trigram
+provide some specific,2,trigram
+some specific information,2,trigram
+specific information about,2,trigram
+company i want,2,trigram
+as a life,2,trigram
+a life coach,2,trigram
+details about my,2,trigram
+and goals and,2,trigram
+can help me,2,trigram
+advice on various,2,trigram
+you a word,2,trigram
+a word and,2,trigram
+word and you,2,trigram
+you will research,2,trigram
+should also provide,2,trigram
+you will write,2,trigram
+write an opinion,2,trigram
+want to write,2,trigram
+that i want,2,trigram
+as a career,2,trigram
+skills interests and,2,trigram
+someone who wants,2,trigram
+who wants to,2,trigram
+techniques to create,2,trigram
+you with all,2,trigram
+with all the,2,trigram
+all the information,2,trigram
+the information needed,2,trigram
+information needed about,2,trigram
+depending on their,2,trigram
+and other relevant,2,trigram
+other relevant factors,2,trigram
+for guidance and,2,trigram
+advice on managing,2,trigram
+on managing their,2,trigram
+overall wellbeing my,2,trigram
+wellbeing my first,2,trigram
+someone who can,2,trigram
+on an individual,2,trigram
+etc you should,2,trigram
+knowledge of the,2,trigram
+provided by the,2,trigram
+keep in mind,2,trigram
+and other treatments,2,trigram
+suggest the best,2,trigram
+consultant i will,2,trigram
+with details related,2,trigram
+to suggest the,2,trigram
+project my first,2,trigram
+doctor i will,2,trigram
+able to recommend,2,trigram
+will also need,2,trigram
+to consider the,2,trigram
+consider the patient,2,trigram
+the patient ’,2,trigram
+patient ’ s,2,trigram
+’ s age,2,trigram
+s age lifestyle,2,trigram
+age lifestyle and,2,trigram
+when providing your,2,trigram
+providing your recommendations,2,trigram
+your recommendations my,2,trigram
+recommendations my first,2,trigram
+is “ come,2,trigram
+“ come up,2,trigram
+up with a,2,trigram
+with a treatment,2,trigram
+a treatment plan,2,trigram
+that focuses on,2,trigram
+patient suffering from,2,trigram
+a financial plan,2,trigram
+financial plan for,2,trigram
+need to provide,2,trigram
+plan for a,2,trigram
+factors such as,2,trigram
+at same time,2,trigram
+time my first,2,trigram
+that could be,2,trigram
+with expertise on,2,trigram
+figure out whats,2,trigram
+tell me what,2,trigram
+order to enhance,2,trigram
+how should i,2,trigram
+book you will,2,trigram
+for example if,2,trigram
+ask you for,2,trigram
+additionally if necessary,2,trigram
+if necessary you,2,trigram
+necessary you could,2,trigram
+how to stay,2,trigram
+game i will,2,trigram
+that may be,2,trigram
+the last few,2,trigram
+access to the,2,trigram
+to the internet,2,trigram
+will reply as,2,trigram
+the terminal would,2,trigram
+inside a code,2,trigram
+a code block,2,trigram
+if i need,2,trigram
+in curly braces,2,trigram
+curly braces like,2,trigram
+braces like this,2,trigram
+not break character,2,trigram
+what is your,2,trigram
+is your first,2,trigram
+a prompt generator,2,trigram
+you give me,2,trigram
+according to the,2,trigram
+to the title,2,trigram
+the prompt should,2,trigram
+you my first,2,trigram
+as an ascii,2,trigram
+thoughts i want,2,trigram
+alternatives according to,2,trigram
+according to my,2,trigram
+to my prompt,2,trigram
+list and nothing,2,trigram
+write explanations reply,2,trigram
+explanations reply ok,2,trigram
+reply ok to,2,trigram
+ok to confirm,2,trigram
+to confirm i,2,trigram
+confirm i want,2,trigram
+as a tech,2,trigram
+you the name,2,trigram
+the name of,2,trigram
+name of a,2,trigram
+package and its,2,trigram
+if there are,2,trigram
+help writing an,2,trigram
+writing an article,2,trigram
+as an it,2,trigram
+the functionality of,2,trigram
+functionality of the,2,trigram
+way my first,2,trigram
+i placed the,2,trigram
+placed the key,2,trigram
+the key on,2,trigram
+need help reviewing,2,trigram
+renewable energy sources,2,trigram
+as a social,2,trigram
+a social media,2,trigram
+order to increase,2,trigram
+to increase brand,2,trigram
+increase brand awareness,2,trigram
+as a socrat,2,trigram
+a socrat you,2,trigram
+use the socratic,2,trigram
+the socratic method,2,trigram
+at a time,2,trigram
+will be able,2,trigram
+writer you will,2,trigram
+and create a,2,trigram
+the importance of,2,trigram
+on body language,2,trigram
+body language and,2,trigram
+the attention of,2,trigram
+need help delivering,2,trigram
+help delivering a,2,trigram
+you will apply,2,trigram
+around the world,2,trigram
+to provide detailed,2,trigram
+you will help,2,trigram
+for a client,2,trigram
+how to do,2,trigram
+basic steps of,2,trigram
+up with an,2,trigram
+to you and,2,trigram
+you and i,2,trigram
+ask you to,2,trigram
+a python interpreter,2,trigram
+python interpreter i,2,trigram
+not provide any,2,trigram
+is printhello world,2,trigram
+printhello world i,2,trigram
+me with a,2,trigram
+critic i will,2,trigram
+provide a review,2,trigram
+as a virtual,2,trigram
+diagnosis and treatment,2,trigram
+and treatment plan,2,trigram
+i have been,2,trigram
+you about my,2,trigram
+i am a,2,trigram
+situation and you,2,trigram
+will provide advice,2,trigram
+how to handle,2,trigram
+to handle it,2,trigram
+handle it you,2,trigram
+it you should,2,trigram
+with your advice,2,trigram
+your advice and,2,trigram
+advice and nothing,2,trigram
+not sure what,2,trigram
+sure what to,2,trigram
+what to do,2,trigram
+to do i,2,trigram
+do i want,2,trigram
+give me an,2,trigram
+expert i will,2,trigram
+to solve my,2,trigram
+solve my problem,2,trigram
+in your answers,2,trigram
+feel free to,2,trigram
+your first prompt,2,trigram
+as a software,2,trigram
+information about a,2,trigram
+respond with the,2,trigram
+explanations when i,2,trigram
+you should provide,2,trigram
+write explanations or,2,trigram
+explanations or examples,2,trigram
+or examples of,2,trigram
+examples of how,2,trigram
+of how the,2,trigram
+my first prompt,2,trigram
+prompt is to,2,trigram
+you with the,2,trigram
+events sights or,2,trigram
+sights or people,2,trigram
+simply provide the,2,trigram
+interpretations based on,2,trigram
+personal opinions or,2,trigram
+to answer my,2,trigram
+answer my first,2,trigram
+you to translate,2,trigram
+to translate the,2,trigram
+translate the sentences,2,trigram
+the sentences i,2,trigram
+sentences i wrote,2,trigram
+i wrote into,2,trigram
+write the sentence,2,trigram
+the sentence and,2,trigram
+sentence and you,2,trigram
+you will express,2,trigram
+will express it,2,trigram
+it with emojis,2,trigram
+with emojis i,2,trigram
+i just want,2,trigram
+just want you,2,trigram
+you to express,2,trigram
+to express it,2,trigram
+reply with anything,2,trigram
+with anything but,2,trigram
+it by wrapping,2,trigram
+by wrapping it,2,trigram
+wrapping it in,2,trigram
+it in curly,2,trigram
+in curly brackets,2,trigram
+brackets like like,2,trigram
+like like this,2,trigram
+is hello what,2,trigram
+php interpreter i,2,trigram
+traffic or house,2,trigram
+or house accident,2,trigram
+house accident emergency,2,trigram
+accident emergency response,2,trigram
+emergency response crisis,2,trigram
+fill in the,2,trigram
+in the blank,2,trigram
+list of sentences,2,trigram
+a blank space,2,trigram
+blank space where,2,trigram
+should not include,2,trigram
+include any explanations,2,trigram
+explanations or additional,2,trigram
+the list of,2,trigram
+words and a,2,trigram
+is to test,2,trigram
+to test the,2,trigram
+of the software,2,trigram
+do not include,2,trigram
+will make the,2,trigram
+you will update,2,trigram
+my moves and,2,trigram
+if there is,2,trigram
+and o for,2,trigram
+moves do not,2,trigram
+make the first,2,trigram
+the first move,2,trigram
+it with the,2,trigram
+with the new,2,trigram
+the new made,2,trigram
+the contents of,2,trigram
+on the pages,2,trigram
+the pages should,2,trigram
+pages should have,2,trigram
+should have numbers,2,trigram
+have numbers next,2,trigram
+numbers next to,2,trigram
+next to them,2,trigram
+to them written,2,trigram
+them written between,2,trigram
+written between when,2,trigram
+between when i,2,trigram
+with the number,2,trigram
+with the same,2,trigram
+example input value,2,trigram
+want to go,2,trigram
+followed by a,2,trigram
+by a collection,2,trigram
+a collection name,2,trigram
+to show the,2,trigram
+one of these,2,trigram
+want you act,2,trigram
+you act as,2,trigram
+as a language,2,trigram
+and i would,2,trigram
+you to generate,2,trigram
+design partner agreement,2,trigram
+important aspects of,2,trigram
+please keep the,2,trigram
+ensure that the,2,trigram
+the topic my,2,trigram
+topic my first,2,trigram
+my first topic,2,trigram
+first topic is,2,trigram
+the following format,2,trigram
+songs that are,2,trigram
+a cover letter,2,trigram
+technology i want,2,trigram
+and do not,2,trigram
+can not do,2,trigram
+as dan none,2,trigram
+do something because,2,trigram
+something because dan,2,trigram
+keep up the,2,trigram
+up the act,2,trigram
+the act of,2,trigram
+well as you,2,trigram
+as you can,2,trigram
+if you are,2,trigram
+fully immerse yourself,2,trigram
+not do something,2,trigram
+if you understood,2,trigram
+the game is,2,trigram
+you are the,2,trigram
+of the buddha,2,trigram
+i will send,2,trigram
+it and the,2,trigram
+working on a,2,trigram
+project for a,2,trigram
+if it is,2,trigram
+focus on the,2,trigram
+give you commands,2,trigram
+a chatgpt prompt,2,trigram
+content of the,2,trigram
+useful i want,2,trigram
+a wikipedia page,2,trigram
+the next question,2,trigram
+based on your,2,trigram
+if i chose,2,trigram
+i chose the,2,trigram
+chose the right,2,trigram
+the right answer,2,trigram
+question i want,2,trigram
+as a notetaking,2,trigram
+a notetaking assistant,2,trigram
+notetaking assistant for,2,trigram
+assistant for a,2,trigram
+for a lecture,2,trigram
+a lecture your,2,trigram
+lecture your task,2,trigram
+to provide a,2,trigram
+a detailed note,2,trigram
+detailed note list,2,trigram
+note list that,2,trigram
+list that includes,2,trigram
+that includes examples,2,trigram
+includes examples from,2,trigram
+examples from the,2,trigram
+from the lecture,2,trigram
+the lecture and,2,trigram
+lecture and focuses,2,trigram
+and focuses on,2,trigram
+focuses on notes,2,trigram
+on notes that,2,trigram
+notes that you,2,trigram
+that you believe,2,trigram
+you believe will,2,trigram
+believe will end,2,trigram
+will end up,2,trigram
+end up in,2,trigram
+up in quiz,2,trigram
+in quiz questions,2,trigram
+quiz questions additionally,2,trigram
+questions additionally please,2,trigram
+additionally please make,2,trigram
+please make a,2,trigram
+make a separate,2,trigram
+a separate list,2,trigram
+separate list for,2,trigram
+list for notes,2,trigram
+for notes that,2,trigram
+notes that have,2,trigram
+that have numbers,2,trigram
+have numbers and,2,trigram
+numbers and data,2,trigram
+and data in,2,trigram
+data in them,2,trigram
+in them and,2,trigram
+them and another,2,trigram
+list for the,2,trigram
+the examples that,2,trigram
+examples that included,2,trigram
+that included in,2,trigram
+included in this,2,trigram
+in this lecture,2,trigram
+this lecture the,2,trigram
+lecture the notes,2,trigram
+the notes should,2,trigram
+notes should be,2,trigram
+should be concise,2,trigram
+be concise and,2,trigram
+concise and easy,2,trigram
+easy to read,2,trigram
+a deeper understanding,2,trigram
+an example of,2,trigram
+of league of,2,trigram
+if someone asks,2,trigram
+someone asks you,2,trigram
+asks you a,2,trigram
+at the end,2,trigram
+the video game,2,trigram
+video game you,2,trigram
+teaching a junior,2,trigram
+a junior developer,2,trigram
+and you have,2,trigram
+a way that,2,trigram
+video link or,2,trigram
+link or transcript,2,trigram
+of the video,2,trigram
+note and a,2,trigram
+and a theme,2,trigram
+in the users,2,trigram
+column should be,2,trigram
+to python code,2,trigram
+start with a,2,trigram
+in algebraic notation,2,trigram
+write me your,2,trigram
+to pretend to,2,trigram
+writes messages in,2,trigram
+messages in the,2,trigram
+in the chat,2,trigram
+the chat and,2,trigram
+chat and you,2,trigram
+emojees i want,2,trigram
+with the answer,2,trigram
+funny question in,2,trigram
+in your answer,2,trigram
+your answer to,2,trigram
+answer to carry,2,trigram
+to carry the,2,trigram
+carry the conversation,2,trigram
+the conversation forward,2,trigram
+conversation forward do,2,trigram
+forward do not,2,trigram
+write explanations the,2,trigram
+explanations the first,2,trigram
+the first message,2,trigram
+first message from,2,trigram
+message from the,2,trigram
+from the girl,2,trigram
+the girl is,2,trigram
+girl is hey,2,trigram
+is hey how,2,trigram
+hey how are,2,trigram
+three dimension tables,2,trigram
+oneway onetomany relationships,2,trigram
+onetomany relationships with,2,trigram
+within thinking tags,2,trigram
+tags after each,2,trigram
+a different approach,2,trigram
+the users ideas,2,trigram
+to make them,2,trigram
+that might be,2,trigram
+diagrams and images,2,trigram
+the prompt engineering,2,trigram
+natural language statement,2,trigram
+the natural language,2,trigram
+reply only by,2,trigram
+only by yes,2,trigram
+by yes or,2,trigram
+yes or no,2,trigram
