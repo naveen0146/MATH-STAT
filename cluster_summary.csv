@@ -1,0 +1,11 @@
+cluster,ms_played,hour,platform,reason_start,reason_end,time_of_day,count
+0,41385.42382271468,1.7867036011080333,android,fwdbtn,fwdbtn,Late Night,722
+1,216813.91369945684,9.608328304164152,android,trackdone,trackdone,Evening,1657
+2,114922.59907300115,22.071842410196986,android,trackdone,trackdone,Night,863
+3,197748.93023255814,11.651162790697674,mac,trackdone,trackdone,Late Night,43
+4,18730.480535279807,12.967153284671532,android,fwdbtn,fwdbtn,Evening,822
+5,158362.47959183675,12.010204081632653,iOS,trackdone,trackdone,Evening,98
+6,110403.33333333333,13.666666666666666,android,trackdone,unexpected-exit,Afternoon,3
+7,51918.875776397515,12.25776397515528,android,clickrow,endplay,Evening,322
+8,178289.05223880598,15.902985074626866,cast to device,trackdone,trackdone,Evening,134
+9,191463.83035714287,14.898809523809524,android,trackdone,trackdone,Afternoon,336
